@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.dataprocessor
+OpenIDE-Module-Localizing-Bundle: invis/gl/dataprocessor/Bundle.properties
+

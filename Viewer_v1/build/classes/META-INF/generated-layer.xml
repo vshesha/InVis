@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="invis-gl-viewer_v1-ViewerTopComponent.shadow">
+                <!--invis.gl.viewer_v1.ViewerTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/invis-gl-viewer_v1-ViewerTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="invis_gl_viewer_v1">
+                <file name="viewer_v1" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--invis.gl.viewer_v1.ViewerTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//invis.gl.viewer_v1//viewer_v1//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="invis">
+                <folder name="gl">
+                    <folder name="viewer_v1">
+                        <file name="ViewerTopComponent">
+                            <!--invis.gl.viewer_v1.ViewerTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//invis_gl_viewer_v1/viewer_v1.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="invis_gl_viewer_v1">
+                <file name="viewer_v1.instance">
+                    <!--invis.gl.viewer_v1.ViewerTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="invis.gl.viewer_v1.ViewerTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="invis.gl.viewer_v1.ViewerTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="ViewerTopComponent.settings">
+                <!--invis.gl.viewer_v1.ViewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="invis.gl.viewer_v1.ViewerTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="ViewerTopComponent.wstcref">
+                    <!--invis.gl.viewer_v1.ViewerTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="ViewerTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="invis-gl-viewer_v1-ViewerTopComponent.instance">
+                <!--invis.gl.viewer_v1.ViewerTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="invis.gl.viewer_v1.ViewerTopComponent"/>
+                <attr
+                    bundlevalue="invis.gl.viewer_v1.Bundle#CTL_ViewerAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

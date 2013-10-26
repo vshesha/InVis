@@ -1,0 +1,7 @@
+STUDENT_ID,PRE_STATE,ACTION,POST_STATE,ERROR,GOAL
+s1,a,Z1,b,1,false
+s1,a,Z2,c,0,true
+s2,a,Z1,a,1,false
+s2,a,Z2,c,0,true
+s3,a,Z1,a,0,false
+s3,a,Z2,c,0,true

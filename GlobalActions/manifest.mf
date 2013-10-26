@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.globalactions
+OpenIDE-Module-Localizing-Bundle: invis/gl/globalactions/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

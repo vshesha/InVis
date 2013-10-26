@@ -1,0 +1,4 @@
+STUDENT_ID	PRE_STATE	ACTION	POST_STATE
+Student	A	LOOP	A
+Student	A	E1	B
+Student	C	E2	A

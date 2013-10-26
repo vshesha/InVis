@@ -1,0 +1,19 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+keetarp	Native American Example 14	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Native American Example 14	514.png	triangle(7 0 1 8 1 -8)	1111.png	FALSE	1	FALSE
+keetarp	Native American Example 14	1111.png	triangle(-7 0 -1 8 -1 -8)	1112.png	FALSE	2	FALSE
+keetarp	Native American Example 14	1112.png	rectangle(-11 -14 -5 -10)	1113.png	FALSE	3	FALSE
+keetarp	Native American Example 14	1113.png	rectangle(-11 14 -5 14)	1114.png	FALSE	4	FALSE
+keetarp	Native American Example 14	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Native American Example 14	514.png	triangle(1 8 7 0 0 -8)	1124.png	FALSE	1	FALSE
+keetarp	Native American Example 14	1124.png	triangle(1 8 7 0 0 -8)	1124.png	FALSE	2	FALSE
+keetarp	Native American Example 14	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Native American Example 14	514.png	triangle(1 8 7 0 1 -8)	1125.png	FALSE	1	FALSE
+keetarp	Native American Example 14	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Native American Example 14	514.png	triangle(0 9 -15 -9 15 -9)	1126.png	FALSE	1	FALSE
+keetarp	Native American Example 14	1126.png	triangle(0 -9 -15 9 15 9)	1127.png	FALSE	2	FALSE
+keetarp	Native American Example 14	1127.png	rectangle(-7 0 7 0)	1128.png	FALSE	3	FALSE
+keetarp	Native American Example 14	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Native American Example 14	514.png	rectangle(-15 -9 15 9)	1129.png	FALSE	1	FALSE
+keetarp	Native American Example 14	1129.png	triangle(1 8 7 0 1 -8)	1130.png	FALSE	2	FALSE
+keetarp	Native American Example 14	1130.png	triangle(1 8 -7 0 -1 -8)	1131.png	FALSE	3	FALSE

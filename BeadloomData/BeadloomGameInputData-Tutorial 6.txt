@@ -1,0 +1,414 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+8543248	Tutorial 6	0.png	point(1 1)	39.png	FALSE	0	FALSE
+8543248	Tutorial 6	39.png	undo	0.png	FALSE	2	FALSE
+8543248	Tutorial 6	0.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	2	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	3	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	4	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	5	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	6	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	7	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	8	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	9	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 1)	40.png	FALSE	10	FALSE
+8543248	Tutorial 6	40.png	linear_iteration(-10 -5  1 1 6)	41.png	FALSE	11	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	12	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	13	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	14	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	15	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	16	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	17	FALSE
+8543248	Tutorial 6	41.png	linear_iteration(-10 -5  1 1 3)	41.png	FALSE	18	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	20	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	21	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	22	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	23	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	24	FALSE
+8543248	Tutorial 6	41.png	undo	41.png	FALSE	25	FALSE
+8543248	Tutorial 6	41.png	undo	40.png	FALSE	26	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	27	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	28	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	29	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	30	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	31	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	32	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	33	FALSE
+8543248	Tutorial 6	40.png	undo	40.png	FALSE	34	FALSE
+8543248	Tutorial 6	40.png	undo	0.png	FALSE	35	FALSE
+8543248	Tutorial 6	0.png	undo	39.png	FALSE	36	FALSE
+8543248	Tutorial 6	39.png	linear_iteration(-10 -5  1 1 3)	42.png	FALSE	36	FALSE
+8543248	Tutorial 6	42.png	undo	39.png	FALSE	38	FALSE
+8543248	Tutorial 6	0.png	linear_iteration(-10 -5  1 1 3)	43.png	FALSE	0	FALSE
+8543248	Tutorial 6	43.png	linear_iteration(-10 -5  1 -1 5)	44.png	FALSE	1	FALSE
+8543248	Tutorial 6	44.png	undo	43.png	FALSE	3	FALSE
+8543248	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+8543248	Tutorial 6	45.png	triangle_iteration(5 15 -5 2 11 -Y)	46.png	FALSE	1	FALSE
+8543248	Tutorial 6	46.png	undo	45.png	FALSE	3	FALSE
+8543248	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	47.png	FALSE	3	FALSE
+8543248	Tutorial 6	47.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	4	FALSE
+8644983	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+8644983	Tutorial 6	45.png	rectangle(5 14 15 16)	66.png	FALSE	1	FALSE
+8644983	Tutorial 6	66.png	rectangle(5 14 15 16)	67.png	FALSE	2	FALSE
+8644983	Tutorial 6	67.png	line(10 13 10 5)	68.png	FALSE	3	FALSE
+8644983	Tutorial 6	68.png	undo	67.png	FALSE	1	FALSE
+8644983	Tutorial 6	66.png	undo	45.png	FALSE	2	FALSE
+8644983	Tutorial 6	45.png	undo	0.png	FALSE	3	FALSE
+8644983	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	3	FALSE
+8644983	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	4	FALSE
+954644011	Tutorial 6	0.png	line(5 15 15 16)	98.png	FALSE	0	FALSE
+954644011	Tutorial 6	98.png	undo	0.png	FALSE	2	FALSE
+954644011	Tutorial 6	0.png	line(5 15 15 15)	99.png	FALSE	2	FALSE
+954644011	Tutorial 6	99.png	line(15 14 5 14)	69.png	FALSE	3	FALSE
+954644011	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	4	FALSE
+954644011	Tutorial 6	70.png	line(-2 -3 -2 -7)	100.png	FALSE	5	FALSE
+954644011	Tutorial 6	100.png	undo	70.png	FALSE	7	FALSE
+954644011	Tutorial 6	0.png	line(-2 -3 -2 -7)	101.png	FALSE	0	FALSE
+954644011	Tutorial 6	101.png	line(-3 -3 -3 -7)	102.png	FALSE	1	FALSE
+954644011	Tutorial 6	102.png	line(-4 -3 -4 -7)	103.png	FALSE	2	FALSE
+954644011	Tutorial 6	103.png	line(-5 -5 -10 -5)	104.png	FALSE	3	FALSE
+954644011	Tutorial 6	104.png	line(-5 -3 -7 -3)	105.png	FALSE	4	FALSE
+954644011	Tutorial 6	105.png	undo	104.png	FALSE	6	FALSE
+954644011	Tutorial 6	104.png	line(-5 -3 -7 -4)	106.png	FALSE	6	FALSE
+954644011	Tutorial 6	106.png	undo	104.png	FALSE	8	FALSE
+954644011	Tutorial 6	104.png	line(-5 -4 -7 -4)	107.png	FALSE	8	FALSE
+954644011	Tutorial 6	107.png	line(-5 -6 -7 -6)	45.png	FALSE	9	FALSE
+Alex	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	0	FALSE
+Alex	Tutorial 6	69.png	line(0 0 0 0)	165.png	FALSE	1	FALSE
+Alex	Tutorial 6	165.png	undo	69.png	FALSE	3	FALSE
+Alex	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	3	FALSE
+Alex	Tutorial 6	70.png	rectangle(-4 -7 -2 -3)	166.png	FALSE	4	FALSE
+Alex	Tutorial 6	166.png	rectangle(-7 -6 -5 -4)	167.png	FALSE	5	FALSE
+Alex	Tutorial 6	167.png	point(0 0)	168.png	FALSE	6	FALSE
+Alex	Tutorial 6	168.png	line(-10 -5 -8 -5)	169.png	FALSE	7	FALSE
+Alex	Tutorial 6	169.png	undo	168.png	FALSE	9	FALSE
+Alex	Tutorial 6	167.png	undo	166.png	FALSE	10	FALSE
+Alex	Tutorial 6	166.png	line(-10 -5 -8 -5)	170.png	FALSE	10	FALSE
+bear	Tutorial 6	0.png	line(5 15 15 15)	352.png	FALSE	0	FALSE
+bear	Tutorial 6	352.png	line(5 15 15 15)	99.png	FALSE	1	FALSE
+bear	Tutorial 6	99.png	line(5 14 14 14)	353.png	FALSE	2	FALSE
+bear	Tutorial 6	353.png	point(15 14)	69.png	FALSE	3	FALSE
+bear	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	4	FALSE
+bear	Tutorial 6	70.png	line(-2 -3 -4 -3)	354.png	FALSE	5	FALSE
+bear	Tutorial 6	354.png	line(-7 -4 -2 -4)	355.png	FALSE	6	FALSE
+bear	Tutorial 6	355.png	line(-10 -5 -2 -5)	356.png	FALSE	7	FALSE
+bear	Tutorial 6	356.png	line(-4 -7 -2 -7)	357.png	FALSE	8	FALSE
+bear	Tutorial 6	357.png	line(-7 -6 -2 -6)	48.png	FALSE	9	FALSE
+BOSS	Tutorial 6	0.png	rectangle(5 14 15 15)	377.png	FALSE	0	FALSE
+BOSS	Tutorial 6	377.png	undo	0.png	FALSE	2	FALSE
+BOSS	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	2	FALSE
+BOSS	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	3	FALSE
+BOSS	Tutorial 6	70.png	rectangle(-4 -7 -2 -3)	166.png	FALSE	4	FALSE
+BOSS	Tutorial 6	166.png	rectangle(-7 -6 -5 -4)	167.png	FALSE	5	FALSE
+BOSS	Tutorial 6	167.png	line(-8 -5 -10 -5)	48.png	FALSE	6	FALSE
+Cammie	Tutorial 6	0.png	line(10 15 10 5)	386.png	FALSE	0	FALSE
+Cammie	Tutorial 6	386.png	point(0 0)	387.png	FALSE	1	FALSE
+Cammie	Tutorial 6	387.png	line(10 15 10 5)	388.png	FALSE	2	FALSE
+Cammie	Tutorial 6	388.png	undo	387.png	FALSE	4	FALSE
+Cammie	Tutorial 6	386.png	undo	0.png	FALSE	5	FALSE
+Cammie	Tutorial 6	0.png	line(10 15 10 5)	389.png	FALSE	5	FALSE
+Cammie	Tutorial 6	389.png	line(5 14 15 15)	390.png	FALSE	6	FALSE
+Cammie	Tutorial 6	390.png	line(5 14 15 14)	391.png	FALSE	7	FALSE
+Cammie	Tutorial 6	391.png	line(5 15 15 10)	392.png	FALSE	8	FALSE
+Cammie	Tutorial 6	392.png	undo	391.png	FALSE	10	FALSE
+Cammie	Tutorial 6	391.png	line(5 15 9 15)	70.png	FALSE	10	FALSE
+Cammie	Tutorial 6	70.png	linear_iteration(-2 -7  3 0 3)	393.png	FALSE	11	FALSE
+Cammie	Tutorial 6	393.png	linear_iteration(-2 -3  3 0 2)	394.png	FALSE	12	FALSE
+Cammie	Tutorial 6	394.png	undo	393.png	FALSE	14	FALSE
+Cammie	Tutorial 6	393.png	linear_iteration(-2 -3  3 0 2)	395.png	FALSE	14	FALSE
+Cammie	Tutorial 6	395.png	linear_iteration(-4 -3  3 0 2)	396.png	FALSE	15	FALSE
+Cammie	Tutorial 6	396.png	undo	395.png	FALSE	17	FALSE
+Cammie	Tutorial 6	393.png	undo	394.png	FALSE	18	FALSE
+Cammie	Tutorial 6	394.png	undo	393.png	FALSE	19	FALSE
+Cammie	Tutorial 6	393.png	undo	70.png	FALSE	20	FALSE
+Cammie	Tutorial 6	70.png	line(5 15 9 15)	70.png	FALSE	20	FALSE
+Cammie	Tutorial 6	70.png	linear_iteration(-4 -3  3 0 2)	355.png	FALSE	21	FALSE
+Cammie	Tutorial 6	355.png	linear_iteration(-4 -7  3 0 3)	48.png	FALSE	22	FALSE
+Cammie	Tutorial 6	48.png	undo	355.png	FALSE	4	FALSE
+dangt61	Tutorial 6	0.png	triangle_iteration(-10 -5 2 8 9 -X)	478.png	FALSE	0	FALSE
+dangt61	Tutorial 6	478.png	triangle_iteration(-10 -5 2 8 9 X)	479.png	FALSE	1	FALSE
+dangt61	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 2 10 X)	480.png	FALSE	1	FALSE
+dangt61	Tutorial 6	480.png	undo	45.png	FALSE	3	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 2 10 -Y)	481.png	FALSE	3	FALSE
+dangt61	Tutorial 6	481.png	undo	45.png	FALSE	5	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 2 10 Y)	482.png	FALSE	5	FALSE
+dangt61	Tutorial 6	482.png	undo	45.png	FALSE	7	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 2 3 Y)	483.png	FALSE	7	FALSE
+dangt61	Tutorial 6	483.png	undo	45.png	FALSE	9	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 11 11 Y)	484.png	FALSE	9	FALSE
+dangt61	Tutorial 6	484.png	undo	45.png	FALSE	11	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	11	FALSE
+dangt61	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 X)	485.png	FALSE	1	FALSE
+dangt61	Tutorial 6	485.png	undo	45.png	FALSE	3	FALSE
+dangt61	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 -Y)	486.png	FALSE	1	FALSE
+dangt61	Tutorial 6	486.png	undo	45.png	FALSE	3	FALSE
+dangt61	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	3	FALSE
+gym1734	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	0	FALSE
+gym1734	Tutorial 6	69.png	line(10 5 10 13)	70.png	FALSE	1	FALSE
+gym1734	Tutorial 6	70.png	rectangle(-4 -7 -2 -3)	166.png	FALSE	2	FALSE
+gym1734	Tutorial 6	166.png	rectangle(-7 -6 -5 -4)	167.png	FALSE	3	FALSE
+gym1734	Tutorial 6	167.png	line(-10 -5 -8 -5)	48.png	FALSE	4	FALSE
+Jennabackspace	Tutorial 6	0.png	rectangle(0 0 5 15)	1000.png	FALSE	0	FALSE
+Jennabackspace	Tutorial 6	1000.png	undo	0.png	FALSE	2	FALSE
+Jennabackspace	Tutorial 6	0.png	rectangle(5 14 15 15)	377.png	FALSE	2	FALSE
+Jennabackspace	Tutorial 6	377.png	rectangle(5 14 15 15)	69.png	FALSE	3	FALSE
+Jennabackspace	Tutorial 6	69.png	line(10 5 10 13)	70.png	FALSE	4	FALSE
+Jennabackspace	Tutorial 6	70.png	undo	69.png	FALSE	4	FALSE
+jessica26	Tutorial 6	0.png	linear_iteration(5 15  0 0 2)	69.png	FALSE	0	FALSE
+jessica26	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	1	FALSE
+jessica26	Tutorial 6	70.png	rectangle(-4 -7 -2 -3)	166.png	FALSE	2	FALSE
+jessica26	Tutorial 6	166.png	rectangle(-7 -6 -5 -4)	167.png	FALSE	3	FALSE
+jessica26	Tutorial 6	167.png	line(-8 -5 -10 -5)	48.png	FALSE	4	FALSE
+jon3	Tutorial 6	0.png	line(10 13 10 5)	1007.png	FALSE	0	FALSE
+jon3	Tutorial 6	1007.png	rectangle(5 14 15 15)	70.png	FALSE	1	FALSE
+jon3	Tutorial 6	70.png	line(-10 -5 -8 -5)	1008.png	FALSE	2	FALSE
+jon3	Tutorial 6	1008.png	rectangle(-7 -6 -5 -4)	1009.png	FALSE	3	FALSE
+jon3	Tutorial 6	1009.png	rectangle(-4 -7 -2 -3)	48.png	FALSE	4	FALSE
+juliasacani	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	0	FALSE
+juliasacani	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	1	FALSE
+juliasacani	Tutorial 6	70.png	rectangle(-4 -7 -2 -3)	166.png	FALSE	2	FALSE
+juliasacani	Tutorial 6	166.png	rectangle(-7 -6 -5 -4)	167.png	FALSE	3	FALSE
+juliasacani	Tutorial 6	167.png	line(-10 -5 -8 -5)	48.png	FALSE	4	FALSE
+kayla29	Tutorial 6	0.png	linear_iteration(5 15  0 0 2)	69.png	FALSE	0	FALSE
+kayla29	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	1	FALSE
+kayla29	Tutorial 6	70.png	triangle(-2 -3 -2 -7 -9 -5)	1037.png	FALSE	2	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	0	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	1	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	2	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	3	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	4	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	5	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	6	FALSE
+kayla29	Tutorial 6	0.png	triangle_iteration(5 15 0 0 0 Y)	0.png	FALSE	7	FALSE
+kayla29	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	0	FALSE
+kayla29	Tutorial 6	69.png	line(10 13 10 5)	70.png	FALSE	1	FALSE
+kayla29	Tutorial 6	70.png	line(-8 -5 -10 -5)	1008.png	FALSE	2	FALSE
+kayla29	Tutorial 6	1008.png	rectangle(-7 -6 -5 -4)	1009.png	FALSE	3	FALSE
+kayla29	Tutorial 6	1009.png	rectangle(-4 -7 -2 -3)	48.png	FALSE	4	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 -X)	1078.png	FALSE	0	FALSE
+keetarp	Tutorial 6	1078.png	triangle_iteration(-10 -5 1 3 9 X)	1079.png	FALSE	1	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	line(10 5 10 13)	1080.png	FALSE	1	FALSE
+keetarp	Tutorial 6	1080.png	rectangle(5 14 15 15)	48.png	FALSE	2	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 5 5 8 10 Y)	1082.png	FALSE	1	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 X)	485.png	FALSE	1	FALSE
+keetarp	Tutorial 6	485.png	triangle_iteration(10 5 5 9 11 Y)	1083.png	FALSE	2	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	1	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	1	FALSE
+keetarp	Tutorial 6	48.png	triangle_iteration(10 6 5 9 11 Y)	68.png	FALSE	2	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 6 5 9 11 Y)	1084.png	FALSE	1	FALSE
+keetarp	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+keetarp	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	1	FALSE
+kjwhite	Tutorial 6	0.png	point(-2 -3)	1416.png	FALSE	0	FALSE
+kjwhite	Tutorial 6	1416.png	undo	0.png	FALSE	2	FALSE
+kjwhite	Tutorial 6	0.png	point(-2 -2)	1417.png	FALSE	2	FALSE
+kjwhite	Tutorial 6	1417.png	undo	0.png	FALSE	4	FALSE
+kjwhite	Tutorial 6	0.png	point(-2 -2)	1417.png	FALSE	4	FALSE
+kjwhite	Tutorial 6	1417.png	undo	0.png	FALSE	6	FALSE
+kjwhite	Tutorial 6	0.png	point(5 15)	1418.png	FALSE	6	FALSE
+kjwhite	Tutorial 6	1418.png	point(6 16)	1419.png	FALSE	7	FALSE
+kjwhite	Tutorial 6	1419.png	undo	1418.png	FALSE	9	FALSE
+kjwhite	Tutorial 6	1418.png	point(5 14)	1420.png	FALSE	9	FALSE
+kjwhite	Tutorial 6	1420.png	point(6 16)	1421.png	FALSE	10	FALSE
+kjwhite	Tutorial 6	1421.png	undo	1420.png	FALSE	12	FALSE
+kjwhite	Tutorial 6	1420.png	point(10 5)	1422.png	FALSE	12	FALSE
+kjwhite	Tutorial 6	1422.png	point(10 6)	1423.png	FALSE	13	FALSE
+kjwhite	Tutorial 6	1423.png	point(10 7)	1424.png	FALSE	14	FALSE
+kjwhite	Tutorial 6	1424.png	point(10 8)	1425.png	FALSE	15	FALSE
+kjwhite	Tutorial 6	1425.png	point(10 9)	1426.png	FALSE	16	FALSE
+kjwhite	Tutorial 6	1426.png	point(10 10)	1427.png	FALSE	17	FALSE
+kjwhite	Tutorial 6	1427.png	point(10 11)	1428.png	FALSE	18	FALSE
+kjwhite	Tutorial 6	1428.png	point(10 12)	1429.png	FALSE	19	FALSE
+kjwhite	Tutorial 6	1429.png	point(10 13)	1430.png	FALSE	20	FALSE
+kjwhite	Tutorial 6	1430.png	point(6 14)	1431.png	FALSE	21	FALSE
+kjwhite	Tutorial 6	1431.png	point(4 14)	1432.png	FALSE	22	FALSE
+kjwhite	Tutorial 6	1432.png	undo	1431.png	FALSE	24	FALSE
+kjwhite	Tutorial 6	1431.png	point(7 14)	1433.png	FALSE	24	FALSE
+kjwhite	Tutorial 6	1433.png	point(8 14)	1434.png	FALSE	25	FALSE
+kjwhite	Tutorial 6	1434.png	point(9 14)	1435.png	FALSE	26	FALSE
+kjwhite	Tutorial 6	1435.png	point(10 14)	1436.png	FALSE	27	FALSE
+kjwhite	Tutorial 6	1436.png	point(11 14)	1437.png	FALSE	28	FALSE
+kjwhite	Tutorial 6	1437.png	point(12 14)	1438.png	FALSE	29	FALSE
+kjwhite	Tutorial 6	1438.png	point(13 14)	1439.png	FALSE	30	FALSE
+kjwhite	Tutorial 6	1439.png	point(14 14)	1440.png	FALSE	31	FALSE
+kjwhite	Tutorial 6	1440.png	point(15 14)	1441.png	FALSE	32	FALSE
+kjwhite	Tutorial 6	1441.png	point(15 15)	1442.png	FALSE	33	FALSE
+kjwhite	Tutorial 6	1442.png	point(6 15)	1443.png	FALSE	34	FALSE
+kjwhite	Tutorial 6	1443.png	point(7 15)	1444.png	FALSE	35	FALSE
+kjwhite	Tutorial 6	1444.png	point(8 15)	1445.png	FALSE	36	FALSE
+kjwhite	Tutorial 6	1445.png	point(9 15)	1446.png	FALSE	37	FALSE
+kjwhite	Tutorial 6	1446.png	point(10 15)	1447.png	FALSE	38	FALSE
+kjwhite	Tutorial 6	1447.png	point(11 15)	1448.png	FALSE	39	FALSE
+kjwhite	Tutorial 6	1448.png	point(13 15)	1449.png	FALSE	40	FALSE
+kjwhite	Tutorial 6	1449.png	point(13 15)	1449.png	FALSE	41	FALSE
+kjwhite	Tutorial 6	1449.png	point(14 15)	1450.png	FALSE	42	FALSE
+kjwhite	Tutorial 6	1450.png	point(12 15)	70.png	FALSE	43	FALSE
+kjwhite	Tutorial 6	70.png	point(-10 -4)	1451.png	FALSE	44	FALSE
+kjwhite	Tutorial 6	1451.png	point(-9 -5)	1452.png	FALSE	45	FALSE
+kjwhite	Tutorial 6	1452.png	undo	1451.png	FALSE	47	FALSE
+kjwhite	Tutorial 6	1451.png	point(-9 -4)	1453.png	FALSE	47	FALSE
+kjwhite	Tutorial 6	1453.png	point(-8 -4)	1454.png	FALSE	48	FALSE
+kjwhite	Tutorial 6	1454.png	point(-7 -4)	1455.png	FALSE	49	FALSE
+kjwhite	Tutorial 6	1455.png	point(-7 -3)	1456.png	FALSE	50	FALSE
+kjwhite	Tutorial 6	1456.png	point(-7 -4)	1456.png	FALSE	51	FALSE
+kjwhite	Tutorial 6	1456.png	point(-7 -4)	1456.png	FALSE	52	FALSE
+kjwhite	Tutorial 6	1456.png	point(-7 -5)	1457.png	FALSE	53	FALSE
+kjwhite	Tutorial 6	1457.png	point(-6 -3)	1458.png	FALSE	54	FALSE
+kjwhite	Tutorial 6	1458.png	point(-6 -4)	1459.png	FALSE	55	FALSE
+kjwhite	Tutorial 6	1459.png	point(-6 -5)	1460.png	FALSE	56	FALSE
+kjwhite	Tutorial 6	1460.png	point(-5 -3)	1461.png	FALSE	57	FALSE
+kjwhite	Tutorial 6	1461.png	point(-5 -4)	1462.png	FALSE	58	FALSE
+kjwhite	Tutorial 6	1462.png	point(-5 -5)	1463.png	FALSE	59	FALSE
+kjwhite	Tutorial 6	1463.png	point(-4 -2)	1464.png	FALSE	60	FALSE
+kjwhite	Tutorial 6	1464.png	point(-4 -3)	1465.png	FALSE	61	FALSE
+kjwhite	Tutorial 6	1465.png	point(-4 -4)	1466.png	FALSE	62	FALSE
+kjwhite	Tutorial 6	1466.png	point(-4 -5)	1467.png	FALSE	63	FALSE
+kjwhite	Tutorial 6	1467.png	point(-4 -6)	1468.png	FALSE	64	FALSE
+kjwhite	Tutorial 6	1468.png	point(-3 -2)	1469.png	FALSE	65	FALSE
+kjwhite	Tutorial 6	1469.png	point(-3 -3)	1470.png	FALSE	66	FALSE
+kjwhite	Tutorial 6	1470.png	point(-3 -3)	1470.png	FALSE	67	FALSE
+kjwhite	Tutorial 6	1470.png	point(-3 -4)	1471.png	FALSE	68	FALSE
+kjwhite	Tutorial 6	1471.png	point(-3 -5)	1472.png	FALSE	69	FALSE
+kjwhite	Tutorial 6	1472.png	point(-3 -6)	1473.png	FALSE	70	FALSE
+kjwhite	Tutorial 6	1473.png	point(-2 -2)	1474.png	FALSE	71	FALSE
+kjwhite	Tutorial 6	1474.png	point(-2 -3)	1475.png	FALSE	72	FALSE
+kjwhite	Tutorial 6	1475.png	point(-2 -4)	1476.png	FALSE	73	FALSE
+kjwhite	Tutorial 6	1476.png	point(-2 -5)	1477.png	FALSE	74	FALSE
+kjwhite	Tutorial 6	1477.png	point(-2 -6)	1478.png	FALSE	75	FALSE
+malloryumling	Tutorial 6	0.png	linear_iteration(10 5  0 0 11)	389.png	FALSE	0	FALSE
+malloryumling	Tutorial 6	389.png	rectangle(5 14 15 15)	70.png	FALSE	1	FALSE
+malloryumling	Tutorial 6	70.png	linear_iteration(-4 -3  3 0 3)	356.png	FALSE	2	FALSE
+malloryumling	Tutorial 6	356.png	linear_iteration(-3 -7  3 0 3)	1564.png	FALSE	3	FALSE
+malloryumling	Tutorial 6	1564.png	point(-7 -6)	1565.png	FALSE	4	FALSE
+rodriguez	Tutorial 6	0.png	point(5 15)	1629.png	FALSE	0	FALSE
+rodriguez	Tutorial 6	1629.png	undo	0.png	FALSE	2	FALSE
+rodriguez	Tutorial 6	0.png	line(5 15 0 0)	1630.png	FALSE	2	FALSE
+rodriguez	Tutorial 6	1630.png	undo	0.png	FALSE	4	FALSE
+rodriguez	Tutorial 6	0.png	triangle_iteration(10 5 5 9 11 Y)	70.png	FALSE	4	FALSE
+rodriguez	Tutorial 6	70.png	triangle_iteration(-10 -5 1 3 9 X)	1631.png	FALSE	5	FALSE
+rodriguez	Tutorial 6	1631.png	undo	70.png	FALSE	7	FALSE
+rodriguez	Tutorial 6	70.png	triangle_iteration(-10 -5 1 3 9 X)	48.png	FALSE	7	FALSE
+SockMonkeys	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+SockMonkeys	Tutorial 6	45.png	rectangle(5 14 15 15)	1669.png	FALSE	1	FALSE
+SockMonkeys	Tutorial 6	1669.png	line(10 13 10 5)	48.png	FALSE	2	FALSE
+speedy4499	Tutorial 6	0.png	triangle_iteration(10 5 5 9 11 -Y)	1675.png	FALSE	0	FALSE
+speedy4499	Tutorial 6	1675.png	triangle_iteration(10 5 5 9 11 Y)	1676.png	FALSE	1	FALSE
+speedy4499	Tutorial 6	1676.png	undo	1675.png	FALSE	3	FALSE
+speedy4499	Tutorial 6	36.png	triangle_iteration(10 5 5 9 11 Y)	1677.png	FALSE	4	FALSE
+speedy4499	Tutorial 6	1677.png	triangle_iteration(-10 -5 1 3 9 -X)	1678.png	FALSE	5	FALSE
+speedy4499	Tutorial 6	1678.png	triangle_iteration(-10 -5 1 3 9 X)	1679.png	FALSE	6	FALSE
+speedy4499	Tutorial 6	1679.png	undo	1678.png	FALSE	8	FALSE
+speedy4499	Tutorial 6	1677.png	undo	36.png	FALSE	9	FALSE
+speedy4499	Tutorial 6	36.png	triangle_iteration(-10 -5 1 3 9 X)	1680.png	FALSE	9	FALSE
+swimmergirl	Tutorial 6	0.png	line(10 15 10 5)	386.png	FALSE	0	FALSE
+swimmergirl	Tutorial 6	386.png	line(10 15 10 5)	389.png	FALSE	1	FALSE
+tarawagner11	Tutorial 6	0.png	line(5 15 15 15)	352.png	FALSE	0	FALSE
+tarawagner11	Tutorial 6	352.png	line(5 14 15 14)	377.png	FALSE	1	FALSE
+tarawagner11	Tutorial 6	377.png	point(10 13)	1744.png	FALSE	2	FALSE
+username	Tutorial 6	0.png	triangle(-2 -3 -2 -7 -10 -5)	1764.png	FALSE	0	FALSE
+username	Tutorial 6	1764.png	line(10 15 0 0)	1765.png	FALSE	1	FALSE
+username	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+username	Tutorial 6	45.png	linear_iteration(10 5  5 5 11)	1775.png	FALSE	1	FALSE
+username	Tutorial 6	1775.png	undo	45.png	FALSE	4	FALSE
+8294261	Tutorial 6	0.png	line(15 15 10 13)	1813.png	FALSE	0	FALSE
+8294261	Tutorial 6	1813.png	undo	0.png	FALSE	2	FALSE
+8294261	Tutorial 6	0.png	point(5 15)	1629.png	FALSE	2	FALSE
+8294261	Tutorial 6	1629.png	line(0 0 0 0)	1814.png	FALSE	3	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	4	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	5	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	6	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	7	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	8	FALSE
+8294261	Tutorial 6	1814.png	line(0 0 0 0)	1814.png	FALSE	9	FALSE
+8294261	Tutorial 6	1814.png	undo	1814.png	FALSE	11	FALSE
+8294261	Tutorial 6	1814.png	undo	1814.png	FALSE	12	FALSE
+8294261	Tutorial 6	1814.png	undo	1814.png	FALSE	13	FALSE
+8294261	Tutorial 6	1814.png	undo	1814.png	FALSE	14	FALSE
+8294261	Tutorial 6	1814.png	undo	1814.png	FALSE	15	FALSE
+8294261	Tutorial 6	1814.png	undo	1629.png	FALSE	16	FALSE
+annie262	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+annie262	Tutorial 6	45.png	linear_iteration(0 0  1 -1 5)	1890.png	FALSE	1	FALSE
+annie262	Tutorial 6	1890.png	undo	45.png	FALSE	3	FALSE
+annie262	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+annie262	Tutorial 6	45.png	triangle_iteration(10 5 3 11 11 Y)	484.png	FALSE	1	FALSE
+annie262	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+annie262	Tutorial 6	45.png	line(10 15 10 6)	1895.png	FALSE	1	FALSE
+annie262	Tutorial 6	1895.png	rectangle(5 14 5 15)	1896.png	FALSE	2	FALSE
+annie262	Tutorial 6	1896.png	rectangle(6 14 6 15)	1897.png	FALSE	3	FALSE
+annie262	Tutorial 6	1897.png	rectangle(7 14 7 15)	1898.png	FALSE	4	FALSE
+annie262	Tutorial 6	1898.png	rectangle(8 14 8 15)	1899.png	FALSE	5	FALSE
+annie262	Tutorial 6	1899.png	rectangle(9 14 9 15)	1900.png	FALSE	6	FALSE
+annie262	Tutorial 6	1900.png	rectangle(11 14 11 15)	1901.png	FALSE	7	FALSE
+annie262	Tutorial 6	1901.png	rectangle(12 14 12 15)	1902.png	FALSE	8	FALSE
+annie262	Tutorial 6	1902.png	rectangle(13 14 13 15)	1903.png	FALSE	9	FALSE
+annie262	Tutorial 6	1903.png	rectangle(14 14 14 15)	1904.png	FALSE	10	FALSE
+annie262	Tutorial 6	1904.png	rectangle(15 14 15 15)	1905.png	FALSE	11	FALSE
+annie262	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+annie262	Tutorial 6	45.png	line(5 15 15 15)	1910.png	FALSE	1	FALSE
+annie262	Tutorial 6	1910.png	line(5 14 15 14)	1669.png	FALSE	2	FALSE
+annie262	Tutorial 6	1669.png	line(10 13 10 5)	48.png	FALSE	3	FALSE
+babyreg333	Tutorial 6	0.png	line(-2 -3 -2 -7)	101.png	FALSE	0	FALSE
+babyreg333	Tutorial 6	101.png	line(-3 -3 -3 -7)	102.png	FALSE	1	FALSE
+babyreg333	Tutorial 6	102.png	line(-4 -3 -4 -7)	103.png	FALSE	2	FALSE
+babyreg333	Tutorial 6	103.png	line(-5 -4 -5 -6)	1916.png	FALSE	3	FALSE
+babyreg333	Tutorial 6	1916.png	line(-6 -4 -6 -6)	1917.png	FALSE	4	FALSE
+babyreg333	Tutorial 6	1917.png	line(-7 -4 -7 -6)	1918.png	FALSE	5	FALSE
+babyreg333	Tutorial 6	1918.png	line(-10 -5 -5 -6)	45.png	FALSE	6	FALSE
+babyreg333	Tutorial 6	45.png	undo	1918.png	FALSE	8	FALSE
+babyreg333	Tutorial 6	1917.png	undo	1916.png	FALSE	9	FALSE
+babyreg333	Tutorial 6	1916.png	undo	103.png	FALSE	10	FALSE
+babyreg333	Tutorial 6	103.png	undo	102.png	FALSE	11	FALSE
+babyreg333	Tutorial 6	102.png	undo	101.png	FALSE	12	FALSE
+babyreg333	Tutorial 6	101.png	undo	0.png	FALSE	13	FALSE
+Bones	Tutorial 6	0.png	rectangle(5 14 15 15)	69.png	FALSE	0	FALSE
+Bones	Tutorial 6	69.png	line(10 15 10 5)	70.png	FALSE	1	FALSE
+Bones	Tutorial 6	70.png	line(-4 -7 -2 -7)	1951.png	FALSE	2	FALSE
+Bones	Tutorial 6	1951.png	line(-4 -7 -2 -7)	1952.png	FALSE	3	FALSE
+Bones	Tutorial 6	1952.png	line(-7 -6 -2 -6)	1953.png	FALSE	4	FALSE
+Bones	Tutorial 6	1953.png	line(-10 -5 -2 -5)	1954.png	FALSE	5	FALSE
+Bones	Tutorial 6	1954.png	line(-7 -4 -2 -4)	1955.png	FALSE	6	FALSE
+Bones	Tutorial 6	1955.png	line(-4 -3 -2 -3)	48.png	FALSE	7	FALSE
+Brianna	Tutorial 6	0.png	line(10 5 10 13)	1007.png	FALSE	0	FALSE
+Brianna	Tutorial 6	1007.png	line(5 15 15 15)	1960.png	FALSE	1	FALSE
+Brianna	Tutorial 6	1960.png	line(5 14 15 14)	70.png	FALSE	2	FALSE
+Brianna	Tutorial 6	70.png	line(-3 -3 -3 -7)	1961.png	FALSE	3	FALSE
+Brianna	Tutorial 6	1961.png	line(-2 -3 -2 -7)	1962.png	FALSE	4	FALSE
+Brianna	Tutorial 6	1962.png	line(-2 -3 -2 -7)	1963.png	FALSE	5	FALSE
+Brianna	Tutorial 6	1963.png	line(-2 -3 -2 -7)	1962.png	FALSE	6	FALSE
+Brianna	Tutorial 6	1962.png	line(-2 -3 -2 -7)	1962.png	FALSE	7	FALSE
+Brianna	Tutorial 6	1962.png	line(-2 -3 -2 -7)	1963.png	FALSE	8	FALSE
+Brianna	Tutorial 6	1963.png	line(-2 -3 -2 -7)	1963.png	FALSE	9	FALSE
+Brianna	Tutorial 6	1963.png	line(-3 -3 -2 -7)	1964.png	FALSE	10	FALSE
+dankitlove23	Tutorial 6	0.png	triangle(0 0 0 0 0 0)	121.png	FALSE	0	FALSE
+dankitlove23	Tutorial 6	121.png	triangle(0 0 0 0 0 0)	121.png	FALSE	1	FALSE
+dankitlove23	Tutorial 6	121.png	triangle(0 0 1 1 0 0)	122.png	FALSE	2	FALSE
+dankitlove23	Tutorial 6	122.png	triangle(0 0 1 1 0 0)	122.png	FALSE	3	FALSE
+Divastar	Tutorial 6	0.png	point(0 0)	121.png	FALSE	0	FALSE
+Divastar	Tutorial 6	121.png	triangle_iteration(-10 -5 1 3 9 X)	2150.png	FALSE	1	FALSE
+glowacki	Tutorial 6	0.png	triangle(-2 -3 -2 -7 -10 -5)	1764.png	FALSE	0	FALSE
+glowacki	Tutorial 6	1764.png	rectangle(5 14 15 15)	2168.png	FALSE	1	FALSE
+glowacki	Tutorial 6	2168.png	rectangle(10 5 10 15)	2169.png	FALSE	2	FALSE
+glowacki	Tutorial 6	0.png	rectangle(5 3 8 5)	2170.png	FALSE	0	FALSE
+glowacki	Tutorial 6	2170.png	rectangle(1 1 3 4)	2171.png	FALSE	1	FALSE
+Maura	Tutorial 6	0.png	line(10 5 10 13)	1007.png	FALSE	0	FALSE
+Maura	Tutorial 6	1007.png	line(5 14 15 14)	2317.png	FALSE	1	FALSE
+Maura	Tutorial 6	2317.png	line(5 15 15 15)	70.png	FALSE	2	FALSE
+Maura	Tutorial 6	70.png	triangle_iteration(-10 -4 1 3 9 X)	1478.png	FALSE	3	FALSE
+Maura	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+Maura	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	1	FALSE
+redsox15	Tutorial 6	0.png	triangle(-2 -2 0 0 0 0)	2381.png	FALSE	0	FALSE
+redsox15	Tutorial 6	2381.png	triangle(-2 -2 0 0 0 0)	2381.png	FALSE	1	FALSE
+redsox15	Tutorial 6	2381.png	undo	2381.png	FALSE	3	FALSE
+YaNkEeFaN	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+YaNkEeFaN	Tutorial 6	45.png	triangle_iteration(10 5 0 11 11 Y)	484.png	FALSE	1	FALSE
+YaNkEeFaN	Tutorial 6	484.png	triangle_iteration(5 15 2 11 11 X)	2506.png	FALSE	2	FALSE
+YaNkEeFaN	Tutorial 6	2506.png	triangle_iteration(5 14 2 11 11 X)	48.png	FALSE	3	FALSE
+YaNkEeFaN	Tutorial 6	0.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	0	FALSE
+YaNkEeFaN	Tutorial 6	45.png	triangle_iteration(-10 -5 1 3 9 X)	45.png	FALSE	1	FALSE
+YaNkEeFaN	Tutorial 6	45.png	triangle_iteration(10 5 5 9 11 Y)	48.png	FALSE	2	FALSE

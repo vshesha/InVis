@@ -1,0 +1,622 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+954644011	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+954644011	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+954644011	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+954644011	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+954644011	TriForce	109.png	undo	0.png	FALSE	2	FALSE
+954644011	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+954644011	TriForce	108.png	triangle(0 19 -10 0 10 0)	108.png	FALSE	3	FALSE
+954644011	TriForce	108.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	4	FALSE
+954644011	TriForce	110.png	triangle(-20 -20 -10 -1 0 -20)	111.png	FALSE	5	FALSE
+954644011	TriForce	111.png	triangle(-2 -4 -10 -1 20 -20)	112.png	FALSE	6	FALSE
+954644011	TriForce	112.png	undo	111.png	FALSE	8	FALSE
+954644011	TriForce	111.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	8	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	9	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	10	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	11	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	12	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	13	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	14	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	15	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	16	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	17	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	18	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	19	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	20	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	21	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	22	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	23	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	24	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	25	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	26	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	27	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	28	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	29	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	30	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	31	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	32	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	33	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	34	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	35	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	36	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	37	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	38	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	39	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	40	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	41	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	42	FALSE
+954644011	TriForce	113.png	triangle(-2 -4 0 -20 20 -20)	113.png	FALSE	43	FALSE
+954644011	TriForce	113.png	undo	113.png	FALSE	45	FALSE
+954644011	TriForce	113.png	undo	113.png	FALSE	46	FALSE
+954644011	TriForce	113.png	undo	113.png	FALSE	47	FALSE
+954644011	TriForce	113.png	undo	113.png	FALSE	48	FALSE
+954644011	TriForce	113.png	undo	113.png	FALSE	49	FALSE
+954644011	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+954644011	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+Aaron	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Aaron	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+annalisemarie	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+annalisemarie	TriForce	108.png	triangle(-7 -3 -10 10 10 0)	108.png	FALSE	1	FALSE
+annalisemarie	TriForce	108.png	triangle(-7 -3 -10 10 10 0)	194.png	FALSE	2	FALSE
+annalisemarie	TriForce	194.png	undo	108.png	FALSE	4	FALSE
+annalisemarie	TriForce	108.png	undo	0.png	FALSE	5	FALSE
+annalisemarie	TriForce	0.png	triangle(0 19 -10 10 10 0)	195.png	FALSE	5	FALSE
+annalisemarie	TriForce	195.png	undo	0.png	FALSE	7	FALSE
+annalisemarie	TriForce	108.png	undo	194.png	FALSE	8	FALSE
+annalisemarie	TriForce	194.png	rectangle(-20 -20 20 20)	108.png	FALSE	8	FALSE
+annalisemarie	TriForce	108.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	9	FALSE
+annalisemarie	TriForce	110.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	10	FALSE
+annalisemarie	TriForce	110.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	11	FALSE
+annalisemarie	TriForce	110.png	triangle(-20 -20 0 -20 -10 -1)	111.png	FALSE	12	FALSE
+annalisemarie	TriForce	111.png	undo	110.png	FALSE	14	FALSE
+annalisemarie	TriForce	110.png	triangle(-20 -20 -1 -20 -10 -1)	196.png	FALSE	14	FALSE
+annalisemarie	TriForce	196.png	triangle(1 -20 -20 -20 10 -1)	197.png	FALSE	15	FALSE
+annalisemarie	TriForce	197.png	undo	196.png	FALSE	17	FALSE
+annalisemarie	TriForce	196.png	triangle(1 -20 20 -20 10 -1)	198.png	FALSE	17	FALSE
+annalisemarie	TriForce	198.png	point(0 -20)	199.png	FALSE	18	FALSE
+beadloom	TriForce	0.png	triangle(0 19 0 0 0 0)	239.png	FALSE	0	FALSE
+beadloom	TriForce	239.png	triangle(-1 19 0 0 0 0)	240.png	FALSE	1	FALSE
+bear	TriForce	0.png	triangle(0 19 -10 0 -10 0)	358.png	FALSE	0	FALSE
+bear	TriForce	358.png	triangle(0 19 -10 0 -10 0)	359.png	FALSE	1	FALSE
+bear	TriForce	359.png	rectangle(20 20 20 20)	360.png	FALSE	2	FALSE
+CDog2229	TriForce	0.png	point(0 0)	121.png	FALSE	0	FALSE
+CDog2229	TriForce	121.png	point(0 0)	418.png	FALSE	1	FALSE
+CDog2229	TriForce	418.png	triangle(0 0 0 0 0 0)	418.png	FALSE	2	FALSE
+CDog2229	TriForce	418.png	triangle(0 0 0 0 0 0)	418.png	FALSE	3	FALSE
+CDog2229	TriForce	418.png	triangle(-9 -1 0 0 0 0)	419.png	FALSE	4	FALSE
+CDog2229	TriForce	419.png	triangle(-9 0 0 0 0 0)	420.png	FALSE	5	FALSE
+CDog2229	TriForce	420.png	triangle(-8 0 0 0 0 0)	420.png	FALSE	6	FALSE
+CDog2229	TriForce	420.png	triangle(-8 0 0 0 0 0)	420.png	FALSE	7	FALSE
+CDog2229	TriForce	420.png	triangle(-8 -2 0 0 0 0)	421.png	FALSE	8	FALSE
+CDog2229	TriForce	421.png	triangle(0 -19 0 0 0 0)	422.png	FALSE	9	FALSE
+CDog2229	TriForce	422.png	triangle(-9 0 0 0 0 0)	422.png	FALSE	10	FALSE
+CDog2229	TriForce	422.png	triangle(-9 0 0 0 0 0)	422.png	FALSE	11	FALSE
+CDog2229	TriForce	422.png	triangle(-9 1 0 0 0 0)	423.png	FALSE	12	FALSE
+CDog2229	TriForce	423.png	line(9 -1 0 0)	424.png	FALSE	13	FALSE
+CDog2229	TriForce	424.png	line(-9 -1 0 0)	424.png	FALSE	14	FALSE
+CDog2229	TriForce	424.png	line(-9 -1 0 0)	424.png	FALSE	15	FALSE
+CDog2229	TriForce	424.png	line(-9 0 0 0)	424.png	FALSE	16	FALSE
+CDog2229	TriForce	424.png	line(-9 -2 0 0)	425.png	FALSE	17	FALSE
+CDog2229	TriForce	425.png	line(-9 -4 0 0)	426.png	FALSE	18	FALSE
+CDog2229	TriForce	0.png	rectangle(-20 -20 20 20)	428.png	FALSE	0	FALSE
+CDog2229	TriForce	428.png	rectangle(-20 -20 20 20)	428.png	FALSE	1	FALSE
+CDog2229	TriForce	428.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+CDog2229	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+CDog2229	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+CDog2229	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+dangt61	TriForce	0.png	triangle(-20 20 0 20 -20 -19)	487.png	FALSE	0	FALSE
+dangt61	TriForce	487.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	1	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	2	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	3	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	4	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	5	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	6	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	7	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	8	FALSE
+dangt61	TriForce	488.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	9	FALSE
+dangt61	TriForce	0.png	triangle(-20 20 0 20 -20 -19)	488.png	FALSE	0	FALSE
+dangt61	TriForce	488.png	triangle(-20 -20 0 19 20 -20)	489.png	FALSE	1	FALSE
+dangt61	TriForce	489.png	triangle(1 20 20 -19 20 20)	490.png	FALSE	2	FALSE
+dangt61	TriForce	490.png	triangle(1 20 20 -19 20 20)	491.png	FALSE	3	FALSE
+dangt61	TriForce	0.png	triangle(0 19 -20 -20 20 -20)	492.png	FALSE	0	FALSE
+dangt61	TriForce	492.png	triangle(-20 20 -20 -19 0 20)	493.png	FALSE	1	FALSE
+dangt61	TriForce	493.png	triangle(1 20 20 -19 20 20)	494.png	FALSE	2	FALSE
+dangt61	TriForce	494.png	triangle(-9 -1 9 -1 0 -19)	495.png	FALSE	3	FALSE
+dangt61	TriForce	0.png	rectangle(0 0 10 20)	496.png	FALSE	0	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	1	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	2	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	3	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	4	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	5	FALSE
+dangt61	TriForce	496.png	rectangle(10 20 10 20)	496.png	FALSE	6	FALSE
+daniel	TriForce	0.png	point(0 19)	502.png	FALSE	0	FALSE
+daniel	TriForce	502.png	line(0 0 0 0)	503.png	FALSE	1	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	2	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	3	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	4	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	5	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	6	FALSE
+daniel	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	7	FALSE
+daniel	TriForce	503.png	point(10 0)	504.png	FALSE	8	FALSE
+daniel	TriForce	504.png	point(10 0)	504.png	FALSE	9	FALSE
+daniel	TriForce	504.png	point(10 0)	504.png	FALSE	10	FALSE
+daniel	TriForce	504.png	line(0 0 0 0)	504.png	FALSE	11	FALSE
+daniel	TriForce	504.png	line(0 0 0 0)	504.png	FALSE	12	FALSE
+daniel	TriForce	504.png	line(0 0 0 0)	504.png	FALSE	13	FALSE
+dj1	TriForce	0.png	triangle(-10 0 10 0 0 19)	509.png	FALSE	0	FALSE
+dj1	TriForce	509.png	triangle(-10 -1 -20 -20 -1 -20)	510.png	FALSE	1	FALSE
+dj1	TriForce	510.png	triangle(-10 -1 -20 -20 -1 -20)	511.png	FALSE	2	FALSE
+dj1	TriForce	0.png	triangle(20 -19 20 20 0 20)	512.png	FALSE	0	FALSE
+dj1	TriForce	512.png	triangle(0 20 -20 -19 -20 20)	513.png	FALSE	1	FALSE
+dj1	TriForce	513.png	triangle(-20 -20 0 19 20 -20)	491.png	FALSE	2	FALSE
+dj1	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	491.png	FALSE	3	FALSE
+dj1	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	491.png	FALSE	4	FALSE
+dj1	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	5	FALSE
+dj1	TriForce	199.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	6	FALSE
+dreamS1	TriForce	0.png	rectangle(-20 -20 20 -19)	561.png	FALSE	0	FALSE
+dreamS1	TriForce	561.png	rectangle(-20 -20 20 -19)	561.png	FALSE	1	FALSE
+dreamS1	TriForce	561.png	rectangle(-20 -20 20 -18)	562.png	FALSE	2	FALSE
+dreamS1	TriForce	562.png	rectangle(-20 -20 20 -17)	563.png	FALSE	3	FALSE
+dreamS1	TriForce	563.png	rectangle(-20 -20 20 -10)	564.png	FALSE	4	FALSE
+dreamS1	TriForce	564.png	rectangle(-20 -20 20 -1)	565.png	FALSE	5	FALSE
+dreamS1	TriForce	565.png	rectangle(-20 -20 20 20)	108.png	FALSE	6	FALSE
+dreamS1	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	7	FALSE
+dreamS1	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	8	FALSE
+EmilyFomin	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+EmilyFomin	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+gym1734	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+gym1734	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+gym1734	TriForce	491.png	triangle(9 -1 -9 -1 0 -19)	199.png	FALSE	2	FALSE
+jessica26	TriForce	0.png	triangle(0 20 -20 -19 -20 20)	488.png	FALSE	0	FALSE
+jessica26	TriForce	488.png	triangle(0 20 20 -19 20 20)	513.png	FALSE	1	FALSE
+jessica26	TriForce	513.png	triangle(9 -1 -9 -1 0 -19)	1003.png	FALSE	2	FALSE
+jessica26	TriForce	1003.png	triangle(0 19 -10 0 10 0)	1004.png	FALSE	3	FALSE
+jessica26	TriForce	1004.png	triangle(0 19 -10 0 10 0)	1004.png	FALSE	4	FALSE
+jessica26	TriForce	0.png	triangle(0 20 -20 -19 -20 20)	488.png	FALSE	0	FALSE
+jessica26	TriForce	488.png	triangle(0 20 20 -19 20 20)	513.png	FALSE	1	FALSE
+jessica26	TriForce	513.png	triangle(9 -1 -9 -1 0 -19)	1003.png	FALSE	2	FALSE
+jessica26	TriForce	1003.png	triangle(0 19 -10 0 10 0)	1004.png	FALSE	3	FALSE
+jessica26	TriForce	1004.png	triangle(0 19 -10 0 10 0)	1004.png	FALSE	4	FALSE
+jessica26	TriForce	1004.png	triangle(-10 -1 -20 -20 0 -20)	1005.png	FALSE	5	FALSE
+jessica26	TriForce	1005.png	triangle(10 -1 20 -20 0 -20)	1006.png	FALSE	6	FALSE
+jessica26	TriForce	0.png	triangle(0 20 -20 -19 -20 20)	488.png	FALSE	0	FALSE
+jessica26	TriForce	488.png	triangle(0 20 20 -19 20 20)	513.png	FALSE	1	FALSE
+jessica26	TriForce	513.png	triangle(-9 -1 9 -1 0 -19)	1003.png	FALSE	2	FALSE
+jessica26	TriForce	1003.png	triangle(0 19 -10 0 10 0)	1004.png	FALSE	3	FALSE
+jessica26	TriForce	1004.png	triangle(-10 -1 -20 -20 0 -20)	1005.png	FALSE	4	FALSE
+jessica26	TriForce	1005.png	triangle(10 -1 20 -20 0 -20)	1006.png	FALSE	5	FALSE
+jon3	TriForce	0.png	rectangle(-20 -20 20 20)	428.png	FALSE	0	FALSE
+jon3	TriForce	428.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+jon3	TriForce	108.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	2	FALSE
+jon3	TriForce	110.png	undo	108.png	FALSE	4	FALSE
+jon3	TriForce	0.png	triangle(0 19 -20 -20 20 -20)	492.png	FALSE	0	FALSE
+jon3	TriForce	492.png	triangle(9 -1 -9 -1 0 -19)	1010.png	FALSE	1	FALSE
+jon3	TriForce	1010.png	triangle(-20 -19 0 20 -20 20)	1011.png	FALSE	2	FALSE
+jon3	TriForce	1011.png	triangle(20 -19 0 20 20 20)	1012.png	FALSE	3	FALSE
+jon3	TriForce	0.png	point(0 19)	1013.png	FALSE	0	FALSE
+jon3	TriForce	1013.png	line(0 0 0 19)	1014.png	FALSE	1	FALSE
+jon3	TriForce	1014.png	undo	1013.png	FALSE	8	FALSE
+kayla29	TriForce	0.png	triangle(0 20 -20 -19 -20 20)	487.png	FALSE	0	FALSE
+kayla29	TriForce	487.png	triangle(0 19 -10 0 10 0)	1038.png	FALSE	1	FALSE
+kayla29	TriForce	1038.png	triangle(0 19 -10 0 10 0)	1039.png	FALSE	2	FALSE
+kayla29	TriForce	1039.png	triangle(0 19 -10 0 10 0)	1038.png	FALSE	3	FALSE
+kayla29	TriForce	0.png	triangle(-20 20 -20 -19 0 20)	488.png	FALSE	0	FALSE
+kayla29	TriForce	488.png	triangle(0 20 20 20 20 -19)	513.png	FALSE	1	FALSE
+kayla29	TriForce	513.png	triangle(0 19 -10 0 10 0)	1040.png	FALSE	2	FALSE
+kayla29	TriForce	1040.png	triangle(0 -19 9 -1 -9 -1)	1004.png	FALSE	3	FALSE
+kayla29	TriForce	1004.png	triangle(0 -20 10 -1 20 -20)	1041.png	FALSE	4	FALSE
+kayla29	TriForce	1041.png	triangle(-20 -20 0 -20 -10 -1)	1006.png	FALSE	5	FALSE
+keetarp	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+keetarp	TriForce	108.png	triangle(-10 -1 0 -20 -20 -20)	1092.png	FALSE	1	FALSE
+keetarp	TriForce	1092.png	triangle(10 -1 0 -20 20 -20)	1093.png	FALSE	2	FALSE
+keetarp	TriForce	1093.png	triangle(0 19 -10 0 10 0)	1006.png	FALSE	3	FALSE
+keetarp	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+keetarp	TriForce	108.png	triangle(0 19 10 0 -10 0)	110.png	FALSE	1	FALSE
+keetarp	TriForce	110.png	triangle(10 -1 -20 -20 0 -20)	1108.png	FALSE	2	FALSE
+keetarp	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+keetarp	TriForce	108.png	triangle(0 20 -10 0 10 0)	1109.png	FALSE	1	FALSE
+keetarp	TriForce	1109.png	triangle(-10 -1 -20 -20 0 -20)	1110.png	FALSE	2	FALSE
+keetarp	TriForce	0.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	0	FALSE
+keetarp	TriForce	1139.png	triangle(-10 -1 0 -20 -20 -20)	1140.png	FALSE	1	FALSE
+keetarp	TriForce	1140.png	triangle(10 -1 0 -20 20 -20)	1141.png	FALSE	2	FALSE
+keetarp	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+keetarp	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+keetarp	TriForce	491.png	triangle_iteration(0 -19 1 2 18 Y)	1142.png	FALSE	2	FALSE
+keetarp	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+keetarp	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+keetarp	TriForce	491.png	triangle(0 -19 -9 -1 9 -1)	199.png	FALSE	2	FALSE
+kjwhite	TriForce	0.png	line(0 0 0 0)	121.png	FALSE	0	FALSE
+kjwhite	TriForce	121.png	point(0 19)	503.png	FALSE	1	FALSE
+kjwhite	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	2	FALSE
+kjwhite	TriForce	503.png	line(0 0 0 0)	503.png	FALSE	3	FALSE
+kjwhite	TriForce	503.png	point(-1 18)	1256.png	FALSE	4	FALSE
+kjwhite	TriForce	1256.png	line(0 0 0 0)	1256.png	FALSE	5	FALSE
+kjwhite	TriForce	1256.png	point(-1 17)	1257.png	FALSE	6	FALSE
+kjwhite	TriForce	1257.png	point(-2 16)	1258.png	FALSE	7	FALSE
+kjwhite	TriForce	1258.png	point(-2 15)	1259.png	FALSE	8	FALSE
+kjwhite	TriForce	1259.png	point(-3 15)	1260.png	FALSE	9	FALSE
+kjwhite	TriForce	1260.png	point(-3 14)	1261.png	FALSE	10	FALSE
+kjwhite	TriForce	1261.png	point(-4 14)	1262.png	FALSE	11	FALSE
+kjwhite	TriForce	1262.png	point(-5 14)	1263.png	FALSE	12	FALSE
+kjwhite	TriForce	1263.png	point(-5 13)	1264.png	FALSE	13	FALSE
+kjwhite	TriForce	1264.png	undo	1263.png	FALSE	15	FALSE
+kjwhite	TriForce	1262.png	undo	1261.png	FALSE	16	FALSE
+kjwhite	TriForce	1261.png	redo	1262.png	FALSE	17	FALSE
+kjwhite	TriForce	1262.png	undo	1261.png	FALSE	18	FALSE
+kjwhite	TriForce	1263.png	undo	1264.png	FALSE	19	FALSE
+kjwhite	TriForce	1264.png	undo	1263.png	FALSE	20	FALSE
+kjwhite	TriForce	1263.png	undo	1262.png	FALSE	21	FALSE
+kjwhite	TriForce	1262.png	undo	1261.png	FALSE	22	FALSE
+kjwhite	TriForce	1261.png	undo	1260.png	FALSE	23	FALSE
+kjwhite	TriForce	1260.png	undo	1259.png	FALSE	24	FALSE
+kjwhite	TriForce	1259.png	undo	1258.png	FALSE	25	FALSE
+kjwhite	TriForce	1258.png	undo	1257.png	FALSE	26	FALSE
+kjwhite	TriForce	1257.png	undo	1256.png	FALSE	27	FALSE
+kjwhite	TriForce	1256.png	undo	1256.png	FALSE	28	FALSE
+kjwhite	TriForce	1256.png	undo	503.png	FALSE	29	FALSE
+kjwhite	TriForce	503.png	undo	503.png	FALSE	30	FALSE
+kjwhite	TriForce	503.png	point(-20 -20)	1265.png	FALSE	30	FALSE
+kjwhite	TriForce	1265.png	point(-19 -20)	1266.png	FALSE	31	FALSE
+kjwhite	TriForce	1266.png	point(-19 -19)	1267.png	FALSE	32	FALSE
+kjwhite	TriForce	1267.png	point(-19 -18)	1268.png	FALSE	33	FALSE
+kjwhite	TriForce	1268.png	undo	1267.png	FALSE	35	FALSE
+kjwhite	TriForce	1267.png	point(-18 -19)	1269.png	FALSE	35	FALSE
+kjwhite	TriForce	1269.png	point(-18 -18)	1270.png	FALSE	36	FALSE
+lukewenger	TriForce	0.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	0	FALSE
+lukewenger	TriForce	1139.png	triangle(-10 0 -20 -20 0 -20)	1500.png	FALSE	1	FALSE
+lukewenger	TriForce	1500.png	triangle(10 0 0 -20 20 -20)	1501.png	FALSE	2	FALSE
+malloryumling	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+malloryumling	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+malloryumling	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	2	FALSE
+MaraCheer	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+MaraCheer	TriForce	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	1	FALSE
+MaraCheer	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+MaraCheer	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+MaraCheer	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+Masterchief	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Masterchief	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	108.png	FALSE	1	FALSE
+nicknick321	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+nicknick321	TriForce	109.png	rectangle(-20 -20 20 20)	1576.png	FALSE	1	FALSE
+nicknick321	TriForce	1576.png	triangle(0 20 -20 -19 -20 20)	1576.png	FALSE	2	FALSE
+nicknick321	TriForce	1576.png	triangle(0 20 -20 -19 -20 20)	1577.png	FALSE	3	FALSE
+ring9089	TriForce	0.png	triangle(0 19 -10 0 10 0)	509.png	FALSE	0	FALSE
+ring9089	TriForce	509.png	triangle(10 -1 20 -20 10 0)	1625.png	FALSE	1	FALSE
+ring9089	TriForce	1625.png	triangle(10 -1 20 -20 1 -20)	1626.png	FALSE	2	FALSE
+ring9089	TriForce	0.png	triangle(0 19 10 0 -10 0)	1139.png	FALSE	0	FALSE
+ring9089	TriForce	1139.png	triangle(10 -1 1 -20 20 -20)	1627.png	FALSE	1	FALSE
+ring9089	TriForce	1627.png	triangle(-10 -1 -20 -20 -1 -20)	1628.png	FALSE	2	FALSE
+SockMonkeys	TriForce	0.png	triangle(0 20 -19 -20 -20 20)	1663.png	FALSE	0	FALSE
+SockMonkeys	TriForce	1663.png	triangle(0 20 20 -19 20 20)	1664.png	FALSE	1	FALSE
+SockMonkeys	TriForce	1664.png	triangle(-9 -1 9 -1 0 -19)	1665.png	FALSE	2	FALSE
+SockMonkeys	TriForce	1665.png	triangle(0 19 10 0 -10 0)	1666.png	FALSE	3	FALSE
+SockMonkeys	TriForce	1666.png	triangle(-10 -1 -20 -20 0 -20)	1667.png	FALSE	4	FALSE
+SockMonkeys	TriForce	1667.png	triangle(10 -1 0 -20 20 -20)	1668.png	FALSE	5	FALSE
+speedy4499	TriForce	0.png	triangle(-20 -19 0 20 -20 20)	487.png	FALSE	0	FALSE
+speedy4499	TriForce	487.png	triangle(-20 -19 0 20 -20 20)	488.png	FALSE	1	FALSE
+speedy4499	TriForce	488.png	triangle(-20 20 -4 -15 -20 20)	1681.png	FALSE	2	FALSE
+speedy4499	TriForce	1681.png	undo	488.png	FALSE	4	FALSE
+speedy4499	TriForce	488.png	triangle(0 20 20 20 20 19)	1682.png	FALSE	4	FALSE
+speedy4499	TriForce	1682.png	triangle(0 20 20 20 20 19)	1682.png	FALSE	5	FALSE
+speedy4499	TriForce	1682.png	undo	1682.png	FALSE	7	FALSE
+speedy4499	TriForce	0.png	triangle(-20 -19 0 20 -20 20)	488.png	FALSE	0	FALSE
+speedy4499	TriForce	488.png	triangle(20 -19 0 20 20 20)	513.png	FALSE	1	FALSE
+speedy4499	TriForce	513.png	triangle(-9 -1 -20 -19 9 -1)	1683.png	FALSE	2	FALSE
+speedy4499	TriForce	1683.png	undo	513.png	FALSE	4	FALSE
+speedy4499	TriForce	513.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	4	FALSE
+speedy4499	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	5	FALSE
+8261142	TriForce	0.png	triangle(-10 0 10 0 0 19)	509.png	FALSE	0	FALSE
+8261142	TriForce	509.png	triangle(-10 0 10 0 0 19)	1139.png	FALSE	1	FALSE
+8291934	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+8291934	TriForce	109.png	rectangle(-20 -20 20 20)	428.png	FALSE	1	FALSE
+8291934	TriForce	428.png	triangle(0 19 -20 -20 20 -20)	428.png	FALSE	2	FALSE
+8291934	TriForce	428.png	triangle(0 19 -20 -20 20 -20)	1799.png	FALSE	3	FALSE
+8291934	TriForce	1799.png	triangle(-9 -1 9 -1 0 -19)	1800.png	FALSE	4	FALSE
+8291934	TriForce	1800.png	rectangle(-20 -20 20 20)	108.png	FALSE	5	FALSE
+8291934	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	6	FALSE
+8291934	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	7	FALSE
+8291934	TriForce	108.png	rectangle(-20 -20 20 20)	108.png	FALSE	8	FALSE
+8291934	TriForce	108.png	triangle(-9 -1 9 -1 0 -19)	108.png	FALSE	9	FALSE
+8291934	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+8291934	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+8291934	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+8294097	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	1	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	2	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	3	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	4	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	5	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	6	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	7	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	8	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	9	FALSE
+8294097	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	10	FALSE
+8294097	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	11	FALSE
+8294261	TriForce	0.png	rectangle(-20 -20 20 20)	428.png	FALSE	0	FALSE
+8294261	TriForce	428.png	triangle(0 19 -10 0 10 0)	1815.png	FALSE	1	FALSE
+8294261	TriForce	1815.png	triangle(-10 -1 -20 -20 0 -20)	1816.png	FALSE	2	FALSE
+8294261	TriForce	1816.png	triangle(10 -1 0 -20 20 -20)	1817.png	FALSE	3	FALSE
+Abrar9x0	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Abrar9x0	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	1	FALSE
+Abrar9x0	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	2	FALSE
+Abrar9x0	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	3	FALSE
+alecgriffiths	TriForce	0.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	0	FALSE
+alecgriffiths	TriForce	1139.png	triangle(0 -20 10 -1 20 -20)	1875.png	FALSE	1	FALSE
+alecgriffiths	TriForce	1875.png	triangle(-20 -20 -10 -1 0 -20)	1141.png	FALSE	2	FALSE
+alecgriffiths	TriForce	0.png	triangle(0 19 10 0 -10 0)	1139.png	FALSE	0	FALSE
+alecgriffiths	TriForce	1139.png	triangle(10 -1 20 -20 0 -20)	1875.png	FALSE	1	FALSE
+alecgriffiths	TriForce	1875.png	triangle(-20 -20 -10 -1 0 -20)	1141.png	FALSE	2	FALSE
+alecgriffiths	TriForce	0.png	triangle(-20 20 -20 -19 0 20)	487.png	FALSE	0	FALSE
+alecgriffiths	TriForce	487.png	triangle(0 20 20 -19 20 20)	1876.png	FALSE	1	FALSE
+alecgriffiths	TriForce	1876.png	triangle(-9 -1 0 -19 9 -1)	1877.png	FALSE	2	FALSE
+alecgriffiths	TriForce	1877.png	triangle(-9 -1 0 -19 9 -1)	1878.png	FALSE	3	FALSE
+alecgriffiths	TriForce	1878.png	undo	1877.png	FALSE	5	FALSE
+alecgriffiths	TriForce	0.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	0	FALSE
+alecgriffiths	TriForce	1139.png	triangle(-10 -1 0 -20 -20 -20)	1140.png	FALSE	1	FALSE
+alecgriffiths	TriForce	1140.png	triangle(10 -1 20 -20 0 -20)	1141.png	FALSE	2	FALSE
+alecgriffiths	TriForce	1141.png	triangle(-9 -1 9 -1 0 -19)	1010.png	FALSE	3	FALSE
+alecgriffiths	TriForce	1010.png	triangle(-20 -19 -20 20 0 20)	1011.png	FALSE	4	FALSE
+alecgriffiths	TriForce	1011.png	triangle(20 -19 20 20 0 20)	1012.png	FALSE	5	FALSE
+alecgriffiths	TriForce	0.png	point(10 0)	1879.png	FALSE	0	FALSE
+alecgriffiths	TriForce	1879.png	point(10 0)	1880.png	FALSE	1	FALSE
+alecgriffiths	TriForce	1880.png	point(-10 0)	1881.png	FALSE	2	FALSE
+alecgriffiths	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+alecgriffiths	TriForce	108.png	triangle(-10 -1 0 -20 -20 -20)	1092.png	FALSE	1	FALSE
+AM43011469	TriForce	0.png	triangle(-10 0 0 19 10 0)	1139.png	FALSE	0	FALSE
+AM43011469	TriForce	1139.png	triangle(10 -1 0 -20 20 -20)	1875.png	FALSE	1	FALSE
+AM43011469	TriForce	1875.png	triangle(-1 -20 -20 -20 -10 -1)	1884.png	FALSE	2	FALSE
+annie262	TriForce	0.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	0	FALSE
+annie262	TriForce	1139.png	triangle(-10 -1 -20 -20 0 -20)	1140.png	FALSE	1	FALSE
+annie262	TriForce	1140.png	triangle(10 -1 0 -20 20 -20)	1141.png	FALSE	2	FALSE
+annie262	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+annie262	TriForce	108.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	1	FALSE
+annie262	TriForce	110.png	triangle(-10 -1 -20 -20 0 -20)	111.png	FALSE	2	FALSE
+annie262	TriForce	111.png	triangle(10 -1 0 -20 20 -20)	1006.png	FALSE	3	FALSE
+black_ops1337	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+black_ops1337	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+black_ops1337	TriForce	108.png	triangle(-20 -20 -20 -20 -20 -20)	108.png	FALSE	2	FALSE
+black_ops1337	TriForce	108.png	triangle(-20 -20 -20 -20 -20 -20)	1938.png	FALSE	3	FALSE
+Bones	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+Bones	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+Bones	TriForce	108.png	triangle(0 19 10 0 -10 0)	108.png	FALSE	2	FALSE
+Bones	TriForce	108.png	triangle(0 19 10 0 -10 0)	110.png	FALSE	3	FALSE
+Bones	TriForce	110.png	triangle(10 0 0 -20 0 -20)	1956.png	FALSE	4	FALSE
+CatherineEubanks	TriForce	0.png	triangle(0 19 -20 -20 20 -20)	492.png	FALSE	0	FALSE
+CatherineEubanks	TriForce	492.png	triangle(-9 -1 9 -1 0 -19)	1010.png	FALSE	1	FALSE
+CatherineEubanks	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+CatherineEubanks	TriForce	108.png	triangle(20 -20 -20 -20 0 19)	491.png	FALSE	1	FALSE
+CatherineEubanks	TriForce	491.png	triangle(9 -1 -9 -1 0 -19)	199.png	FALSE	2	FALSE
+Cheese	TriForce	0.png	triangle(-20 -20 0 19 20 -20)	492.png	FALSE	0	FALSE
+Cheese	TriForce	492.png	triangle(-9 -1 9 -1 0 -19)	1010.png	FALSE	1	FALSE
+Cheese	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Cheese	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+Coolsport	TriForce	0.png	point(0 19)	502.png	FALSE	0	FALSE
+Coolsport	TriForce	502.png	line(-20 -20 20 -20)	2023.png	FALSE	1	FALSE
+Coolsport	TriForce	2023.png	triangle(0 19 -20 -20 20 -20)	2024.png	FALSE	2	FALSE
+Coolsport	TriForce	2024.png	triangle(-10 -1 10 -1 0 -19)	2025.png	FALSE	3	FALSE
+Coolsport	TriForce	2025.png	triangle(-10 -1 10 -1 0 -19)	2026.png	FALSE	4	FALSE
+Coolsport	TriForce	2026.png	triangle(-10 -1 10 -1 0 -19)	2024.png	FALSE	5	FALSE
+Coolsport	TriForce	2024.png	triangle(-10 -1 10 -1 0 -19)	2027.png	FALSE	6	FALSE
+dance	TriForce	0.png	rectangle(-20 -20 0 0)	2030.png	FALSE	0	FALSE
+dance	TriForce	2030.png	rectangle(-20 -20 0 0)	2030.png	FALSE	1	FALSE
+dance	TriForce	2030.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+dance	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	3	FALSE
+dance	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	4	FALSE
+doglover	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+doglover	TriForce	108.png	triangle(0 19 -20 -20 20 -19)	2153.png	FALSE	1	FALSE
+doglover	TriForce	2153.png	triangle(0 19 -20 -20 20 -19)	108.png	FALSE	2	FALSE
+doglover	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+doglover	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+doglover	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+firedog115	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+firedog115	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	1	FALSE
+firedog115	TriForce	108.png	undo	108.png	FALSE	3	FALSE
+glowacki	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+glowacki	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+glowacki	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+hannah18	TriForce	0.png	rectangle(-20 20 -20 20)	2203.png	FALSE	0	FALSE
+hannah18	TriForce	2203.png	rectangle(-20 20 -20 20)	2203.png	FALSE	1	FALSE
+hannah18	TriForce	2203.png	rectangle(-20 -20 20 20)	108.png	FALSE	2	FALSE
+hannah18	TriForce	108.png	undo	2203.png	FALSE	6	FALSE
+hannah18	TriForce	0.png	rectangle(0 0 0 0)	2205.png	FALSE	0	FALSE
+hannah18	TriForce	2205.png	rectangle(0 0 0 0)	2205.png	FALSE	1	FALSE
+hannah18	TriForce	2205.png	rectangle(0 0 0 0)	2205.png	FALSE	2	FALSE
+hannah18	TriForce	2205.png	rectangle(0 0 0 0)	2205.png	FALSE	3	FALSE
+hannah18	TriForce	2205.png	rectangle(-20 20 -20 20)	2206.png	FALSE	4	FALSE
+hannah18	TriForce	2206.png	rectangle(-20 -20 20 20)	108.png	FALSE	5	FALSE
+hannah18	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	6	FALSE
+hannah18	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	7	FALSE
+hannahwheel	TriForce	0.png	triangle(0 19 10 0 -10 0)	509.png	FALSE	0	FALSE
+hannahwheel	TriForce	509.png	triangle(0 19 10 0 -10 0)	1139.png	FALSE	1	FALSE
+hannahwheel	TriForce	1139.png	triangle(10 -1 0 -20 -10 -1)	2222.png	FALSE	2	FALSE
+hannahwheel	TriForce	2222.png	triangle(10 -1 0 -20 20 -20)	2223.png	FALSE	3	FALSE
+hannahwheel	TriForce	2223.png	triangle(-10 -1 -1 -20 -20 -20)	2224.png	FALSE	4	FALSE
+hannahwheel	TriForce	2224.png	triangle(-20 -18 -1 20 -20 20)	2225.png	FALSE	5	FALSE
+hannahwheel	TriForce	2225.png	triangle(1 20 20 -19 20 20)	2226.png	FALSE	6	FALSE
+hannahwheel	TriForce	2226.png	line(-1 19 -20 -19)	2227.png	FALSE	7	FALSE
+hannahwheel	TriForce	2227.png	point(0 20)	2228.png	FALSE	8	FALSE
+imadancingfrog	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+imadancingfrog	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+imadancingfrog	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	2	FALSE
+Luke	TriForce	0.png	rectangle(-20 20 20 20)	2284.png	FALSE	0	FALSE
+Luke	TriForce	2284.png	rectangle(-20 20 -20 20)	2284.png	FALSE	1	FALSE
+maria091899	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+maria091899	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+maria091899	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	2	FALSE
+Maura	TriForce	0.png	triangle(0 19 20 -20 -20 -20)	492.png	FALSE	0	FALSE
+Maura	TriForce	492.png	triangle(9 -1 0 -19 -9 -1)	1010.png	FALSE	1	FALSE
+Maura	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Maura	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Nathanrules	TriForce	0.png	triangle(0 19 -10 0 10 0)	509.png	FALSE	0	FALSE
+Nathanrules	TriForce	509.png	triangle(0 19 -10 0 10 0)	1139.png	FALSE	1	FALSE
+Nathanrules	TriForce	1139.png	triangle(-10 -1 -1 -20 -20 -20)	2322.png	FALSE	2	FALSE
+Nathanrules	TriForce	2322.png	triangle(-9 -1 9 -1 0 -19)	2323.png	FALSE	3	FALSE
+Nathanrules	TriForce	2323.png	triangle(10 -1 1 -20 20 -20)	2324.png	FALSE	4	FALSE
+Nathanrules	TriForce	2324.png	triangle(10 -1 1 -20 0 -20)	2224.png	FALSE	5	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(0 19 10 0 -10 0)	108.png	FALSE	1	FALSE
+Nathanrules	TriForce	108.png	triangle(0 19 10 0 -10 0)	110.png	FALSE	2	FALSE
+Nathanrules	TriForce	110.png	triangle(-10 -1 -1 -20 -20 -20)	196.png	FALSE	3	FALSE
+Nathanrules	TriForce	196.png	triangle(0 -20 -9 -1 9 -1)	196.png	FALSE	4	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(-10 -1 0 -20 -20 -20)	1092.png	FALSE	1	FALSE
+Nathanrules	TriForce	1092.png	triangle(-10 0 10 0 0 19)	111.png	FALSE	2	FALSE
+Nathanrules	TriForce	111.png	triangle(10 -1 1 -20 20 -20)	2329.png	FALSE	3	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(0 19 -10 0 10 0)	110.png	FALSE	1	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(20 -20 0 -20 10 0)	2333.png	FALSE	1	FALSE
+Nathanrules	TriForce	2333.png	triangle(10 0 0 19 -10 0)	2334.png	FALSE	2	FALSE
+Nathanrules	TriForce	2334.png	triangle(-10 -1 0 -20 -20 -20)	2335.png	FALSE	3	FALSE
+Nathanrules	TriForce	0.png	triangle(0 19 10 0 -10 0)	1139.png	FALSE	0	FALSE
+Nathanrules	TriForce	1139.png	triangle(-10 -1 -20 -20 0 -20)	1140.png	FALSE	1	FALSE
+Nathanrules	TriForce	1140.png	triangle(10 -1 0 -20 20 -20)	1141.png	FALSE	2	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+Nathanrules	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+Nathanrules	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Nathanrules	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+Nathanrules	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	2	FALSE
+Panther1349	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+Panther1349	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+Panther1349	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	2	FALSE
+Panther1349	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	3	FALSE
+PintoBeans	TriForce	0.png	triangle(0 19 0 20 0 0)	2364.png	FALSE	0	FALSE
+PintoBeans	TriForce	2364.png	undo	0.png	FALSE	2	FALSE
+PintoBeans	TriForce	0.png	triangle(0 0 0 0 0 0)	121.png	FALSE	2	FALSE
+PintoBeans	TriForce	121.png	undo	0.png	FALSE	4	FALSE
+PintoBeans	TriForce	0.png	triangle(0 19 -20 -20 20 -20)	492.png	FALSE	0	FALSE
+PintoBeans	TriForce	492.png	triangle(0 19 9 -1 20 -20)	492.png	FALSE	1	FALSE
+PintoBeans	TriForce	492.png	triangle(-9 -1 9 -1 0 -19)	1010.png	FALSE	2	FALSE
+PintoBeans	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+PintoBeans	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+PintoBeans	TriForce	491.png	triangle(9 -1 -9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+prestonlewis	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+prestonlewis	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+prestonlewis	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+smashmouth36	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	1	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	2	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	3	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	4	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	5	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	6	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	7	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	8	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	9	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	10	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	491.png	FALSE	11	FALSE
+smashmouth36	TriForce	491.png	triangle(-20 -20 20 -20 0 19)	108.png	FALSE	12	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	491.png	FALSE	13	FALSE
+smashmouth36	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	491.png	FALSE	14	FALSE
+smashmouth36	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	15	FALSE
+smashmouth36	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 20 -20 0 19)	491.png	FALSE	1	FALSE
+smashmouth36	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	2	FALSE
+smashmouth36	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 0 19 20 -20)	491.png	FALSE	1	FALSE
+smashmouth36	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	491.png	FALSE	2	FALSE
+smashmouth36	TriForce	0.png	triangle(-9 -1 9 -1 0 -19)	2445.png	FALSE	0	FALSE
+smashmouth36	TriForce	2445.png	triangle(-9 -1 9 -1 0 -19)	2446.png	FALSE	1	FALSE
+smashmouth36	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+smashmouth36	TriForce	108.png	triangle(-20 -20 0 19 20 -20)	491.png	FALSE	1	FALSE
+smashmouth36	TriForce	491.png	triangle(-20 -20 0 19 20 -20)	491.png	FALSE	2	FALSE
+smashmouth36	TriForce	491.png	triangle(-9 -1 9 -1 0 -19)	199.png	FALSE	3	FALSE
+Tempest	TriForce	0.png	triangle(0 19 20 -20 -20 -20)	492.png	FALSE	0	FALSE
+Tempest	TriForce	492.png	triangle(9 -1 -9 -1 0 -19)	1010.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	108.png	FALSE	1	FALSE
+Tempest	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(-9 -1 0 -19 9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	108.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 -19 20 -20 -20 -20)	108.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(9 -1 -9 -1 0 -19)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(9 -1 0 -19 -9 -1)	491.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(20 -20 -20 -20 0 -19)	2451.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(20 -20 -20 -20 0 19)	108.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(-9 1 9 -1 0 -19)	2452.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(9 -1 -9 -1 0 -19)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 -20 -20 20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	491.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(9 -1 0 -19 -9 -1)	199.png	FALSE	2	FALSE
+Tempest	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+Tempest	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+Tempest	TriForce	491.png	triangle(0 -19 9 -1 -9 -1)	199.png	FALSE	2	FALSE
+TheCrazySausageBork	TriForce	0.png	rectangle(-20 0 0 20)	2486.png	FALSE	0	FALSE
+TheCrazySausageBork	TriForce	2486.png	rectangle(0 0 20 20)	2487.png	FALSE	1	FALSE
+TheCrazySausageBork	TriForce	2487.png	rectangle(-20 -20 0 0)	2488.png	FALSE	2	FALSE
+TheCrazySausageBork	TriForce	2488.png	rectangle(0 -20 20 0)	108.png	FALSE	3	FALSE
+TheCrazySausageBork	TriForce	108.png	triangle(0 19 0 0 0 0)	2489.png	FALSE	4	FALSE
+TheCrazySausageBork	TriForce	0.png	rectangle(-20 -20 20 20)	109.png	FALSE	0	FALSE
+TheCrazySausageBork	TriForce	109.png	rectangle(-20 -20 20 20)	108.png	FALSE	1	FALSE
+TheCrazySausageBork	TriForce	0.png	rectangle(-20 -20 20 20)	108.png	FALSE	0	FALSE
+TheCrazySausageBork	TriForce	108.png	triangle(0 19 20 -20 -20 -20)	491.png	FALSE	1	FALSE
+TheCrazySausageBork	TriForce	491.png	triangle(0 -19 -9 -1 9 -1)	199.png	FALSE	2	FALSE

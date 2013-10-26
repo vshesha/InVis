@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.branding
+OpenIDE-Module-Layer: invis/gl/branding/layer.xml
+OpenIDE-Module-Localizing-Bundle: invis/gl/branding/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

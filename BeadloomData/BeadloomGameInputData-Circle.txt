@@ -1,0 +1,49 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+DeVaughn	Circle	0.png	rectangle(-19 -19 19 19)	507.png	FALSE	0	FALSE
+DeVaughn	Circle	507.png	rectangle(-19 -19 19 19)	507.png	FALSE	1	FALSE
+DeVaughn	Circle	507.png	rectangle(-20 -20 20 20)	109.png	FALSE	2	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	3	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	4	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	5	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	6	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	7	FALSE
+DeVaughn	Circle	109.png	rectangle(-20 -20 20 20)	109.png	FALSE	8	FALSE
+dj1	Circle	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+dj1	Circle	514.png	rectangle(-20 -20 20 20)	514.png	FALSE	1	FALSE
+dj1	Circle	514.png	rectangle(-20 -20 20 20)	514.png	FALSE	2	FALSE
+dj1	Circle	514.png	rectangle(-20 -20 20 20)	514.png	FALSE	3	FALSE
+dj1	Circle	514.png	rectangle(-20 -20 20 20)	514.png	FALSE	4	FALSE
+dj1	Circle	514.png	rectangle(-20 -20 20 20)	514.png	FALSE	5	FALSE
+keetarp	Circle	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Circle	514.png	rectangle(-9 -11 9 11)	1115.png	FALSE	1	FALSE
+keetarp	Circle	1115.png	rectangle(-6 -13 6 -12)	1116.png	FALSE	2	FALSE
+keetarp	Circle	1116.png	rectangle(10 -9 11 9)	1117.png	FALSE	3	FALSE
+keetarp	Circle	1117.png	rectangle(12 -6 13 6)	1118.png	FALSE	4	FALSE
+keetarp	Circle	1118.png	line(14 3 14 -3)	1119.png	FALSE	5	FALSE
+keetarp	Circle	1119.png	line(-3 -14 3 -14)	1120.png	FALSE	6	FALSE
+keetarp	Circle	1120.png	rectangle(-6 13 6 13)	1121.png	FALSE	7	FALSE
+keetarp	Circle	0.png	rectangle(-20 -20 20 20)	514.png	FALSE	0	FALSE
+keetarp	Circle	514.png	triangle_iteration(-14 -3 3 2 14 X)	1137.png	FALSE	1	FALSE
+keetarp	Circle	1137.png	linear_iteration(-14 -3  3 3 14)	1138.png	FALSE	2	FALSE
+8315374	Circle	0.png	rectangle(-20 0 0 20)	1842.png	FALSE	0	FALSE
+8315374	Circle	1842.png	rectangle(0 -20 20 0)	1843.png	FALSE	1	FALSE
+8315374	Circle	1843.png	rectangle(-20 -20 0 0)	1844.png	FALSE	2	FALSE
+8315374	Circle	1844.png	rectangle(0 0 20 20)	514.png	FALSE	3	FALSE
+8315374	Circle	514.png	rectangle(-11 -9 -9 11)	1845.png	FALSE	4	FALSE
+8315374	Circle	1845.png	rectangle(-9 -9 9 11)	1846.png	FALSE	5	FALSE
+imadancingfrog	Circle	0.png	point(0 0)	121.png	FALSE	0	FALSE
+imadancingfrog	Circle	121.png	line(0 -14 0 14)	2231.png	FALSE	1	FALSE
+imadancingfrog	Circle	2231.png	line(0 -13 0 13)	2231.png	FALSE	2	FALSE
+imadancingfrog	Circle	2231.png	undo	2231.png	FALSE	4	FALSE
+imadancingfrog	Circle	2231.png	line(1 -13 1 13)	2232.png	FALSE	4	FALSE
+imadancingfrog	Circle	2232.png	undo	2231.png	FALSE	6	FALSE
+imadancingfrog	Circle	2231.png	line(1 -14 1 14)	2233.png	FALSE	6	FALSE
+imadancingfrog	Circle	2233.png	line(2 -14 2 14)	2234.png	FALSE	7	FALSE
+imadancingfrog	Circle	2234.png	line(3 -14 3 14)	2235.png	FALSE	8	FALSE
+imadancingfrog	Circle	2235.png	line(-1 -14 -1 14)	2236.png	FALSE	9	FALSE
+imadancingfrog	Circle	2236.png	line(-2 -14 -2 14)	2237.png	FALSE	10	FALSE
+imadancingfrog	Circle	2237.png	line(-3 -14 -3 14)	2238.png	FALSE	11	FALSE
+imadancingfrog	Circle	2238.png	line(-4 -13 -4 13)	2239.png	FALSE	12	FALSE
+imadancingfrog	Circle	2239.png	line(-4 -12 -4 12)	2239.png	FALSE	13	FALSE
+imadancingfrog	Circle	2239.png	line(-5 -13 -5 13)	2240.png	FALSE	14	FALSE
+imadancingfrog	Circle	2240.png	line(-6 -13 -6 13)	2241.png	FALSE	15	FALSE

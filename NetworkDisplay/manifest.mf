@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.graphviewer
+OpenIDE-Module-Localizing-Bundle: invis/gl/graphviewer/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+

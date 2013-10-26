@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="invis-gl-sequencedistributions-SDBeanTreeTopComponent.shadow">
+                <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/invis-gl-sequencedistributions-SDBeanTreeTopComponent.instance"/>
+            </file>
+            <file name="invis-gl-sequencedistributions-SequenceDistributionsTopComponent.shadow">
+                <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/invis-gl-sequencedistributions-SequenceDistributionsTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="SDBeanTreeTopComponent.settings">
+                <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="invis.gl.sequencedistributions.SDBeanTreeTopComponent"/>
+</settings>
+]]></file>
+            <file name="SequenceDistributionsTopComponent.settings">
+                <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="invis.gl.sequencedistributions.SequenceDistributionsTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="output">
+                <file name="SDBeanTreeTopComponent.wstcref">
+                    <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="SDBeanTreeTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+            <folder name="editor">
+                <file name="SequenceDistributionsTopComponent.wstcref">
+                    <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="SequenceDistributionsTopComponent"/>
+  <state opened="false"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="invis-gl-sequencedistributions-SDBeanTreeTopComponent.instance">
+                <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="invis.gl.sequencedistributions.SDBeanTreeTopComponent"/>
+                <attr name="preferredID" stringvalue="SDBeanTreeTopComponent"/>
+                <attr
+                    bundlevalue="invis.gl.sequencedistributions.Bundle#CTL_SDBeanTreeAction" name="displayName"/>
+            </file>
+            <file name="invis-gl-sequencedistributions-SequenceDistributionsTopComponent.instance">
+                <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="invis.gl.sequencedistributions.SequenceDistributionsTopComponent"/>
+                <attr name="preferredID" stringvalue="SequenceDistributionsTopComponent"/>
+                <attr
+                    bundlevalue="invis.gl.sequencedistributions.Bundle#CTL_SequenceDistributionsAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="invis_gl_sequencedistributions">
+                <file name="SDBeanTree" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//invis.gl.sequencedistributions//SDBeanTree//EN"/>
+                </file>
+                <file name="SequenceDistributions" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//invis.gl.sequencedistributions//SequenceDistributions//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="invis">
+                <folder name="gl">
+                    <folder name="sequencedistributions">
+                        <file name="SDBeanTreeTopComponent">
+                            <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//invis_gl_sequencedistributions/SDBeanTree.instance"/>
+                        </file>
+                        <file name="SequenceDistributionsTopComponent">
+                            <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//invis_gl_sequencedistributions/SequenceDistributions.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="invis_gl_sequencedistributions">
+                <file name="SDBeanTree.instance">
+                    <!--invis.gl.sequencedistributions.SDBeanTreeTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="invis.gl.sequencedistributions.SDBeanTreeTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="invis.gl.sequencedistributions.SDBeanTreeTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="SequenceDistributions.instance">
+                    <!--invis.gl.sequencedistributions.SequenceDistributionsTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="invis.gl.sequencedistributions.SequenceDistributionsTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="invis.gl.sequencedistributions.SequenceDistributionsTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

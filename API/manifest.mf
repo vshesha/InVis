@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.api
+OpenIDE-Module-Localizing-Bundle: invis/gl/api/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

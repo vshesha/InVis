@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.viewer
+OpenIDE-Module-Localizing-Bundle: invis/gl/viewer/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+

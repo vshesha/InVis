@@ -1,0 +1,329 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+daniel	Starry Sky	0.png	point(6 3)	506.png	FALSE	0	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	1	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	2	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	3	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	4	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	5	FALSE
+daniel	Starry Sky	506.png	point(6 3)	506.png	FALSE	6	FALSE
+gave	Starry Sky	0.png	point(-13 15)	630.png	FALSE	0	FALSE
+gave	Starry Sky	630.png	point(-5 15)	631.png	FALSE	1	FALSE
+gave	Starry Sky	631.png	point(0 12)	632.png	FALSE	2	FALSE
+gave	Starry Sky	632.png	point(4 9)	633.png	FALSE	3	FALSE
+gave	Starry Sky	633.png	point(6 3)	634.png	FALSE	4	FALSE
+gave	Starry Sky	634.png	point(13 2)	635.png	FALSE	5	FALSE
+gave	Starry Sky	635.png	point(16 8)	636.png	FALSE	6	FALSE
+gave	Starry Sky	636.png	point(-20 0)	637.png	FALSE	7	FALSE
+gave	Starry Sky	637.png	undo	636.png	FALSE	9	FALSE
+gave	Starry Sky	636.png	point(-20 0)	638.png	FALSE	9	FALSE
+gave	Starry Sky	638.png	line(-20 0 0 0)	639.png	FALSE	10	FALSE
+gave	Starry Sky	639.png	line(20 0 0 0)	640.png	FALSE	11	FALSE
+gave	Starry Sky	640.png	line(-20 20 0 0)	641.png	FALSE	12	FALSE
+gave	Starry Sky	641.png	undo	640.png	FALSE	14	FALSE
+gave	Starry Sky	640.png	line(-20 0 -20 -20)	642.png	FALSE	14	FALSE
+gave	Starry Sky	642.png	line(-20 0 -20 -20)	642.png	FALSE	15	FALSE
+gym1734	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+gym1734	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+gym1734	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+gym1734	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+gym1734	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+gym1734	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+gym1734	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+gym1734	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+gym1734	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+Huzaifa	Starry Sky	0.png	rectangle(20 -20 20 0)	765.png	FALSE	0	FALSE
+Huzaifa	Starry Sky	765.png	rectangle(19 -19 20 0)	766.png	FALSE	1	FALSE
+Huzaifa	Starry Sky	766.png	undo	765.png	FALSE	3	FALSE
+Huzaifa	Starry Sky	765.png	rectangle(20 -19 20 0)	765.png	FALSE	3	FALSE
+Huzaifa	Starry Sky	765.png	rectangle(20 -19 20 0)	765.png	FALSE	4	FALSE
+Huzaifa	Starry Sky	765.png	rectangle(0 0 20 0)	767.png	FALSE	5	FALSE
+Huzaifa	Starry Sky	767.png	rectangle(-20 0 0 0)	768.png	FALSE	6	FALSE
+Huzaifa	Starry Sky	768.png	undo	767.png	FALSE	8	FALSE
+Huzaifa	Starry Sky	765.png	undo	765.png	FALSE	9	FALSE
+Huzaifa	Starry Sky	765.png	undo	765.png	FALSE	10	FALSE
+Huzaifa	Starry Sky	765.png	undo	766.png	FALSE	11	FALSE
+Huzaifa	Starry Sky	766.png	undo	765.png	FALSE	12	FALSE
+Huzaifa	Starry Sky	765.png	rectangle(0 0 20 0)	769.png	FALSE	12	FALSE
+Huzaifa	Starry Sky	769.png	rectangle(-20 0 0 0)	770.png	FALSE	13	FALSE
+Huzaifa	Starry Sky	770.png	rectangle(0 -20 20 0)	771.png	FALSE	14	FALSE
+Huzaifa	Starry Sky	771.png	rectangle(-20 -20 0 0)	644.png	FALSE	15	FALSE
+Huzaifa	Starry Sky	644.png	rectangle(0 0 20 20)	772.png	FALSE	16	FALSE
+Huzaifa	Starry Sky	772.png	rectangle(-20 0 0 20)	773.png	FALSE	17	FALSE
+Huzaifa	Starry Sky	773.png	point(-13 15)	774.png	FALSE	18	FALSE
+Huzaifa	Starry Sky	774.png	point(-5 15)	775.png	FALSE	19	FALSE
+Huzaifa	Starry Sky	775.png	point(0 12)	776.png	FALSE	20	FALSE
+Huzaifa	Starry Sky	776.png	point(3 9)	777.png	FALSE	21	FALSE
+Huzaifa	Starry Sky	777.png	point(6 3)	778.png	FALSE	22	FALSE
+Huzaifa	Starry Sky	778.png	point(13 2)	779.png	FALSE	23	FALSE
+Huzaifa	Starry Sky	779.png	point(16 8)	780.png	FALSE	24	FALSE
+keetarp	Starry Sky	0.png	point(-13 15)	1042.png	FALSE	0	FALSE
+keetarp	Starry Sky	1042.png	point(-13 15)	630.png	FALSE	1	FALSE
+keetarp	Starry Sky	630.png	point(-5 15)	631.png	FALSE	2	FALSE
+keetarp	Starry Sky	631.png	point(0 12)	632.png	FALSE	3	FALSE
+keetarp	Starry Sky	632.png	point(4 9)	633.png	FALSE	4	FALSE
+keetarp	Starry Sky	633.png	point(6 3)	634.png	FALSE	5	FALSE
+keetarp	Starry Sky	634.png	point(13 2)	635.png	FALSE	6	FALSE
+keetarp	Starry Sky	635.png	point(16 8)	636.png	FALSE	7	FALSE
+keetarp	Starry Sky	636.png	rectangle(-20 0 0 20)	1043.png	FALSE	8	FALSE
+keetarp	Starry Sky	1043.png	rectangle(-20 0 0 20)	1044.png	FALSE	9	FALSE
+keetarp	Starry Sky	1044.png	rectangle(-20 20 20 20)	1045.png	FALSE	10	FALSE
+keetarp	Starry Sky	1045.png	undo	1044.png	FALSE	12	FALSE
+keetarp	Starry Sky	1043.png	undo	636.png	FALSE	13	FALSE
+keetarp	Starry Sky	636.png	undo	635.png	FALSE	14	FALSE
+keetarp	Starry Sky	0.png	rectangle(-20 -20 20 0)	1046.png	FALSE	0	FALSE
+keetarp	Starry Sky	1046.png	rectangle(-20 -20 20 0)	644.png	FALSE	1	FALSE
+keetarp	Starry Sky	644.png	rectangle(-20 20 20 20)	1047.png	FALSE	2	FALSE
+keetarp	Starry Sky	1047.png	rectangle(-20 0 20 20)	773.png	FALSE	3	FALSE
+keetarp	Starry Sky	773.png	point(-13 15)	774.png	FALSE	4	FALSE
+keetarp	Starry Sky	774.png	point(-5 15)	775.png	FALSE	5	FALSE
+keetarp	Starry Sky	775.png	point(0 12)	776.png	FALSE	6	FALSE
+keetarp	Starry Sky	776.png	point(4 9)	1048.png	FALSE	7	FALSE
+keetarp	Starry Sky	1048.png	point(6 3)	1049.png	FALSE	8	FALSE
+keetarp	Starry Sky	1049.png	point(13 2)	1050.png	FALSE	9	FALSE
+keetarp	Starry Sky	1050.png	point(16 8)	1051.png	FALSE	10	FALSE
+keetarp	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+keetarp	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+keetarp	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+keetarp	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+keetarp	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+keetarp	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+keetarp	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+keetarp	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+keetarp	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+rodriguez	Starry Sky	0.png	rectangle(20 0 20 0)	1632.png	FALSE	0	FALSE
+rodriguez	Starry Sky	1632.png	undo	0.png	FALSE	2	FALSE
+rodriguez	Starry Sky	0.png	rectangle(-20 0 -20 0)	1633.png	FALSE	2	FALSE
+rodriguez	Starry Sky	1633.png	undo	0.png	FALSE	4	FALSE
+rodriguez	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+rodriguez	Starry Sky	644.png	rectangle(-20 0 20 20)	468.png	FALSE	1	FALSE
+rodriguez	Starry Sky	468.png	undo	644.png	FALSE	3	FALSE
+rodriguez	Starry Sky	644.png	rectangle(-20 0 20 20)	773.png	FALSE	3	FALSE
+rodriguez	Starry Sky	773.png	point(13 15)	773.png	FALSE	4	FALSE
+rodriguez	Starry Sky	773.png	point(13 15)	773.png	FALSE	5	FALSE
+rodriguez	Starry Sky	773.png	undo	773.png	FALSE	7	FALSE
+rodriguez	Starry Sky	773.png	point(13 15)	1634.png	FALSE	7	FALSE
+rodriguez	Starry Sky	1634.png	undo	773.png	FALSE	9	FALSE
+rodriguez	Starry Sky	773.png	point(-13 -15)	1635.png	FALSE	9	FALSE
+rodriguez	Starry Sky	1635.png	point(15 13)	1636.png	FALSE	10	FALSE
+rodriguez	Starry Sky	1636.png	point(15 13)	1636.png	FALSE	11	FALSE
+rodriguez	Starry Sky	1636.png	point(15 13)	1636.png	FALSE	12	FALSE
+rodriguez	Starry Sky	1636.png	undo	1636.png	FALSE	14	FALSE
+rodriguez	Starry Sky	1636.png	undo	1635.png	FALSE	15	FALSE
+rodriguez	Starry Sky	1635.png	undo	773.png	FALSE	16	FALSE
+rodriguez	Starry Sky	773.png	undo	1634.png	FALSE	17	FALSE
+rodriguez	Starry Sky	1634.png	point(13 15)	1637.png	FALSE	17	FALSE
+rodriguez	Starry Sky	1637.png	undo	1634.png	FALSE	19	FALSE
+rodriguez	Starry Sky	1634.png	point(-13 -15)	1638.png	FALSE	19	FALSE
+rodriguez	Starry Sky	1638.png	undo	1634.png	FALSE	21	FALSE
+rodriguez	Starry Sky	1634.png	point(-13 15)	1639.png	FALSE	21	FALSE
+rodriguez	Starry Sky	1639.png	point(-5 15)	1640.png	FALSE	22	FALSE
+rodriguez	Starry Sky	1640.png	point(-5 15)	1640.png	FALSE	23	FALSE
+rodriguez	Starry Sky	1640.png	point(0 12)	1641.png	FALSE	24	FALSE
+rodriguez	Starry Sky	1641.png	point(4 9)	1642.png	FALSE	25	FALSE
+rodriguez	Starry Sky	1642.png	point(6 3)	1643.png	FALSE	26	FALSE
+rodriguez	Starry Sky	1643.png	point(13 2)	1644.png	FALSE	27	FALSE
+rodriguez	Starry Sky	1644.png	point(16 8)	1645.png	FALSE	28	FALSE
+splashmason	Starry Sky	0.png	rectangle(-20 0 20 20)	1726.png	FALSE	0	FALSE
+splashmason	Starry Sky	1726.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+splashmason	Starry Sky	645.png	point(-13 15)	1727.png	FALSE	2	FALSE
+splashmason	Starry Sky	1727.png	point(-13 15)	1727.png	FALSE	3	FALSE
+splashmason	Starry Sky	1727.png	point(-13 15)	1728.png	FALSE	4	FALSE
+splashmason	Starry Sky	1728.png	point(-13 15)	646.png	FALSE	5	FALSE
+splashmason	Starry Sky	646.png	point(-5 15)	647.png	FALSE	6	FALSE
+splashmason	Starry Sky	647.png	point(0 12)	648.png	FALSE	7	FALSE
+splashmason	Starry Sky	648.png	point(4 9)	649.png	FALSE	8	FALSE
+splashmason	Starry Sky	649.png	point(6 13)	1729.png	FALSE	9	FALSE
+splashmason	Starry Sky	1729.png	point(6 13)	649.png	FALSE	10	FALSE
+splashmason	Starry Sky	649.png	point(6 3)	649.png	FALSE	11	FALSE
+splashmason	Starry Sky	649.png	point(6 3)	649.png	FALSE	12	FALSE
+splashmason	Starry Sky	649.png	point(6 3)	650.png	FALSE	13	FALSE
+splashmason	Starry Sky	650.png	point(13 2)	651.png	FALSE	14	FALSE
+splashmason	Starry Sky	651.png	point(16 8)	652.png	FALSE	15	FALSE
+SweetvsSour	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+SweetvsSour	Starry Sky	644.png	rectangle(-20 -20 20 0)	644.png	FALSE	1	FALSE
+SweetvsSour	Starry Sky	644.png	rectangle(-20 1 20 20)	468.png	FALSE	2	FALSE
+SweetvsSour	Starry Sky	468.png	rectangle(-20 1 20 20)	468.png	FALSE	3	FALSE
+SweetvsSour	Starry Sky	468.png	rectangle(-20 1 20 20)	645.png	FALSE	4	FALSE
+SweetvsSour	Starry Sky	645.png	rectangle(-20 1 20 20)	645.png	FALSE	5	FALSE
+SweetvsSour	Starry Sky	645.png	rectangle(-20 1 20 20)	645.png	FALSE	6	FALSE
+SweetvsSour	Starry Sky	645.png	point(-13 15)	646.png	FALSE	7	FALSE
+SweetvsSour	Starry Sky	646.png	point(-5 15)	647.png	FALSE	8	FALSE
+tarawagner11	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+tarawagner11	Starry Sky	644.png	rectangle(-20 1 -14 20)	1759.png	FALSE	1	FALSE
+AM43011469	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+AM43011469	Starry Sky	644.png	rectangle(-20 1 20 20)	468.png	FALSE	1	FALSE
+AM43011469	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+AM43011469	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+AM43011469	Starry Sky	645.png	point(-13 15)	1727.png	FALSE	2	FALSE
+AM43011469	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+AM43011469	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+AM43011469	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+AM43011469	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+AM43011469	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+AM43011469	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+AM43011469	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+AM43011469	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+AM43011469	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+AM43011469	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+AM43011469	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+AM43011469	Starry Sky	645.png	point(-13 15)	1728.png	FALSE	2	FALSE
+AM43011469	Starry Sky	1728.png	point(-5 15)	1885.png	FALSE	3	FALSE
+AM43011469	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+AM43011469	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+AM43011469	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+AM43011469	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+AM43011469	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+AM43011469	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+AM43011469	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+AM43011469	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+AM43011469	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+black_ops1337	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+black_ops1337	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+black_ops1337	Starry Sky	645.png	point(13 2)	1939.png	FALSE	2	FALSE
+black_ops1337	Starry Sky	1939.png	point(16 8)	1940.png	FALSE	3	FALSE
+black_ops1337	Starry Sky	1940.png	point(6 3)	1941.png	FALSE	4	FALSE
+black_ops1337	Starry Sky	1941.png	point(4 9)	1942.png	FALSE	5	FALSE
+black_ops1337	Starry Sky	1942.png	point(0 12)	1943.png	FALSE	6	FALSE
+black_ops1337	Starry Sky	1943.png	point(-5 15)	1944.png	FALSE	7	FALSE
+black_ops1337	Starry Sky	1944.png	point(-13 15)	1945.png	FALSE	8	FALSE
+lax8	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+lax8	Starry Sky	644.png	rectangle(-20 0 20 20)	773.png	FALSE	1	FALSE
+Nathanrules	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Nathanrules	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Nathanrules	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Nathanrules	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+Nathanrules	Starry Sky	2338.png	point(6 3)	2339.png	FALSE	4	FALSE
+Nathanrules	Starry Sky	2339.png	point(-13 15)	2340.png	FALSE	5	FALSE
+Nathanrules	Starry Sky	2340.png	point(-5 15)	2341.png	FALSE	6	FALSE
+Nathanrules	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Nathanrules	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Nathanrules	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+Nathanrules	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+Nathanrules	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+Nathanrules	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+Nathanrules	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+Nathanrules	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+Nathanrules	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+Nathanrules	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Nathanrules	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Panther1349	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+Panther1349	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+Panther1349	Starry Sky	645.png	point(13 2)	645.png	FALSE	2	FALSE
+Panther1349	Starry Sky	645.png	point(13 2)	2349.png	FALSE	3	FALSE
+Panther1349	Starry Sky	2349.png	point(16 8)	2338.png	FALSE	4	FALSE
+Panther1349	Starry Sky	2338.png	point(6 3)	2339.png	FALSE	5	FALSE
+Panther1349	Starry Sky	2339.png	point(4 9)	2350.png	FALSE	6	FALSE
+Panther1349	Starry Sky	2350.png	point(0 12)	2351.png	FALSE	7	FALSE
+Panther1349	Starry Sky	2351.png	point(-5 15)	2352.png	FALSE	8	FALSE
+Panther1349	Starry Sky	2352.png	point(-13 15)	652.png	FALSE	9	FALSE
+redsox15	Starry Sky	0.png	rectangle(-20 0 20 0)	2382.png	FALSE	0	FALSE
+redsox15	Starry Sky	2382.png	rectangle(-20 0 20 0)	2382.png	FALSE	1	FALSE
+redsox15	Starry Sky	2382.png	rectangle(-20 -20 20 0)	1046.png	FALSE	2	FALSE
+redsox15	Starry Sky	1046.png	rectangle(-20 -20 20 0)	644.png	FALSE	3	FALSE
+redsox15	Starry Sky	644.png	rectangle(-20 -20 20 20)	468.png	FALSE	4	FALSE
+redsox15	Starry Sky	468.png	rectangle(-20 -20 20 20)	468.png	FALSE	5	FALSE
+redsox15	Starry Sky	468.png	rectangle(-20 -20 20 20)	468.png	FALSE	6	FALSE
+redsox15	Starry Sky	468.png	rectangle(-20 -20 20 20)	468.png	FALSE	7	FALSE
+redsox15	Starry Sky	468.png	rectangle(-20 -20 20 20)	38.png	FALSE	8	FALSE
+redsox15	Starry Sky	38.png	rectangle(-20 -20 20 20)	38.png	FALSE	9	FALSE
+redsox15	Starry Sky	38.png	rectangle(-20 -20 20 20)	468.png	FALSE	10	FALSE
+redsox15	Starry Sky	468.png	rectangle(-20 1 20 20)	645.png	FALSE	11	FALSE
+redsox15	Starry Sky	645.png	point(-13 15)	645.png	FALSE	12	FALSE
+redsox15	Starry Sky	645.png	point(-13 15)	645.png	FALSE	13	FALSE
+redsox15	Starry Sky	645.png	point(-13 15)	1728.png	FALSE	14	FALSE
+smashmouth36	Starry Sky	0.png	rectangle(-20 0 20 20)	1726.png	FALSE	0	FALSE
+smashmouth36	Starry Sky	1726.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+smashmouth36	Starry Sky	645.png	point(-13 15)	646.png	FALSE	2	FALSE
+smashmouth36	Starry Sky	646.png	point(-5 15)	647.png	FALSE	3	FALSE
+smashmouth36	Starry Sky	647.png	point(0 12)	648.png	FALSE	4	FALSE
+smashmouth36	Starry Sky	648.png	point(4 9)	649.png	FALSE	5	FALSE
+smashmouth36	Starry Sky	649.png	point(6 3)	650.png	FALSE	6	FALSE
+smashmouth36	Starry Sky	650.png	point(13 2)	651.png	FALSE	7	FALSE
+smashmouth36	Starry Sky	651.png	point(16 8)	652.png	FALSE	8	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 -20 20 20)	38.png	FALSE	0	FALSE
+Tempest	Starry Sky	38.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+Tempest	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Tempest	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+Tempest	Starry Sky	2338.png	point(6 3)	2339.png	FALSE	4	FALSE
+Tempest	Starry Sky	2339.png	point(4 9)	2350.png	FALSE	5	FALSE
+Tempest	Starry Sky	2350.png	point(0 12)	2351.png	FALSE	6	FALSE
+Tempest	Starry Sky	2351.png	point(-5 15)	2352.png	FALSE	7	FALSE
+Tempest	Starry Sky	2352.png	point(-13 15)	652.png	FALSE	8	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+Tempest	Starry Sky	644.png	rectangle(-20 1 20 20)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Tempest	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+Tempest	Starry Sky	2338.png	point(6 3)	2339.png	FALSE	4	FALSE
+Tempest	Starry Sky	2339.png	point(4 9)	2350.png	FALSE	5	FALSE
+Tempest	Starry Sky	2350.png	point(0 12)	2351.png	FALSE	6	FALSE
+Tempest	Starry Sky	2351.png	point(-5 15)	2352.png	FALSE	7	FALSE
+Tempest	Starry Sky	2352.png	point(-13 15)	652.png	FALSE	8	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Tempest	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Tempest	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+Tempest	Starry Sky	2338.png	point(6 3)	2339.png	FALSE	4	FALSE
+Tempest	Starry Sky	2339.png	point(0 12)	2458.png	FALSE	5	FALSE
+Tempest	Starry Sky	2458.png	point(-5 15)	2459.png	FALSE	6	FALSE
+Tempest	Starry Sky	2459.png	point(-13 15)	2460.png	FALSE	7	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Tempest	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Tempest	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2461.png	FALSE	2	FALSE
+Tempest	Starry Sky	2461.png	point(13 2)	2462.png	FALSE	3	FALSE
+Tempest	Starry Sky	2462.png	point(6 3)	2463.png	FALSE	4	FALSE
+Tempest	Starry Sky	2463.png	point(4 9)	2464.png	FALSE	5	FALSE
+Tempest	Starry Sky	2464.png	point(12 0)	2464.png	FALSE	6	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Tempest	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Tempest	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+Tempest	Starry Sky	2338.png	point(4 9)	2465.png	FALSE	4	FALSE
+Tempest	Starry Sky	2465.png	point(12 0)	2466.png	FALSE	5	FALSE
+Tempest	Starry Sky	2466.png	point(5 -15)	2467.png	FALSE	6	FALSE
+Tempest	Starry Sky	2467.png	point(5 -15)	2467.png	FALSE	7	FALSE
+Tempest	Starry Sky	2467.png	point(5 -15)	2467.png	FALSE	8	FALSE
+Tempest	Starry Sky	2467.png	point(5 -15)	2467.png	FALSE	9	FALSE
+Tempest	Starry Sky	0.png	rectangle(-20 1 20 20)	1091.png	FALSE	0	FALSE
+Tempest	Starry Sky	1091.png	rectangle(-20 -20 20 0)	645.png	FALSE	1	FALSE
+Tempest	Starry Sky	645.png	point(16 8)	2337.png	FALSE	2	FALSE
+Tempest	Starry Sky	2337.png	point(13 2)	2338.png	FALSE	3	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	644.png	rectangle(-20 0 20 20)	773.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-13 15)	773.png	FALSE	2	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-13 15)	774.png	FALSE	3	FALSE
+TheCrazySausageBork	Starry Sky	774.png	point(-5 15)	775.png	FALSE	4	FALSE
+TheCrazySausageBork	Starry Sky	775.png	point(0 12)	776.png	FALSE	5	FALSE
+TheCrazySausageBork	Starry Sky	776.png	point(4 9)	1048.png	FALSE	6	FALSE
+TheCrazySausageBork	Starry Sky	1048.png	point(6 3)	1049.png	FALSE	7	FALSE
+TheCrazySausageBork	Starry Sky	1049.png	point(13 2)	1050.png	FALSE	8	FALSE
+TheCrazySausageBork	Starry Sky	1050.png	point(16 8)	1051.png	FALSE	9	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 0)	1490.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	1490.png	rectangle(-20 -20 20 20)	468.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	468.png	rectangle(-20 -20 20 20)	38.png	FALSE	2	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	644.png	rectangle(-20 0 20 20)	773.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	644.png	rectangle(-20 0 20 20)	773.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-13 15)	773.png	FALSE	2	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-5 15)	773.png	FALSE	3	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(0 12)	773.png	FALSE	4	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(4 9)	773.png	FALSE	5	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(6 3)	773.png	FALSE	6	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(13 2)	773.png	FALSE	7	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(16 8)	773.png	FALSE	8	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 0)	644.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	644.png	rectangle(-20 -20 20 1)	2492.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	0.png	rectangle(-20 -20 20 1)	2492.png	FALSE	0	FALSE
+TheCrazySausageBork	Starry Sky	2492.png	rectangle(-20 0 20 20)	773.png	FALSE	1	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-13 15)	773.png	FALSE	2	FALSE
+TheCrazySausageBork	Starry Sky	773.png	point(-13 15)	774.png	FALSE	3	FALSE
+TheCrazySausageBork	Starry Sky	774.png	point(-5 15)	775.png	FALSE	4	FALSE
+TheCrazySausageBork	Starry Sky	775.png	point(0 12)	776.png	FALSE	5	FALSE
+TheCrazySausageBork	Starry Sky	776.png	point(4 9)	1048.png	FALSE	6	FALSE
+TheCrazySausageBork	Starry Sky	1048.png	point(6 3)	1049.png	FALSE	7	FALSE
+TheCrazySausageBork	Starry Sky	1049.png	point(13 2)	1050.png	FALSE	8	FALSE
+TheCrazySausageBork	Starry Sky	1050.png	point(16 8)	1051.png	FALSE	9	FALSE

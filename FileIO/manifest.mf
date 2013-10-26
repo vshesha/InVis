@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.fileio
+OpenIDE-Module-Localizing-Bundle: invis/gl/fileio/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

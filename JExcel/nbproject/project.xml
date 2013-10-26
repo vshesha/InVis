@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.jxl.JExcel</code-name-base>
+            <suite-component/>
+            <module-dependencies/>
+            <public-packages>
+                <package>jxl</package>
+                <package>jxl.biff</package>
+                <package>jxl.biff.drawing</package>
+                <package>jxl.biff.formula</package>
+                <package>jxl.common</package>
+                <package>jxl.common.log</package>
+                <package>jxl.demo</package>
+                <package>jxl.format</package>
+                <package>jxl.read.biff</package>
+                <package>jxl.write</package>
+                <package>jxl.write.biff</package>
+                <package>net.sf.jxls.controller</package>
+                <package>net.sf.jxls.exception</package>
+                <package>net.sf.jxls.formula</package>
+                <package>net.sf.jxls.parser</package>
+                <package>net.sf.jxls.processor</package>
+                <package>net.sf.jxls.reader</package>
+                <package>net.sf.jxls.report</package>
+                <package>net.sf.jxls.tag</package>
+                <package>net.sf.jxls.transformation</package>
+                <package>net.sf.jxls.transformer</package>
+                <package>net.sf.jxls.util</package>
+            </public-packages>
+            <class-path-extension>
+                <runtime-relative-path>ext/jxls-reader-1.0.1.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jxls-reader-1.0.1.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jxl.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jxl.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jxls-core-1.0.1.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jxls-core-1.0.1.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: invis.gl.sequencemodel
+OpenIDE-Module-Localizing-Bundle: invis/gl/sequencemodel/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

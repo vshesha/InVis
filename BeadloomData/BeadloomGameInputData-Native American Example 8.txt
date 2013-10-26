@@ -1,0 +1,358 @@
+STUDENT_ID	 Problem	PRE_STATE	ACTION	POST_STATE	ERROR	 seqNum	GOAL
+ceacheergirl	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+ceacheergirl	Native American Example 8	443.png	line(0 3 0 1)	444.png	FALSE	1	FALSE
+ceacheergirl	Native American Example 8	444.png	line(-1 0 1 -2)	445.png	FALSE	2	FALSE
+ceacheergirl	Native American Example 8	445.png	rectangle(-1 -2 1 0)	446.png	FALSE	3	FALSE
+ceacheergirl	Native American Example 8	446.png	rectangle(-2 -5 2 -3)	447.png	FALSE	4	FALSE
+ceacheergirl	Native American Example 8	447.png	rectangle(-3 -9 3 -6)	448.png	FALSE	5	FALSE
+ceacheergirl	Native American Example 8	448.png	rectangle(0 -2 0 0)	449.png	FALSE	6	FALSE
+ceacheergirl	Native American Example 8	449.png	rectangle(-1 -5 -1 -3)	450.png	FALSE	7	FALSE
+ceacheergirl	Native American Example 8	450.png	rectangle(1 -5 1 -3)	451.png	FALSE	8	FALSE
+ceacheergirl	Native American Example 8	451.png	rectangle(-2 -8 -2 -6)	452.png	FALSE	9	FALSE
+ceacheergirl	Native American Example 8	452.png	rectangle(2 -8 2 -6)	453.png	FALSE	10	FALSE
+ceacheergirl	Native American Example 8	453.png	point(3 -9)	454.png	FALSE	11	FALSE
+ceacheergirl	Native American Example 8	454.png	point(-3 -9)	455.png	FALSE	12	FALSE
+ceacheergirl	Native American Example 8	455.png	line(0 -3 0 -5)	456.png	FALSE	13	FALSE
+ceacheergirl	Native American Example 8	456.png	line(-1 -6 -1 -8)	457.png	FALSE	14	FALSE
+ceacheergirl	Native American Example 8	457.png	line(1 -6 1 -8)	458.png	FALSE	15	FALSE
+ceacheergirl	Native American Example 8	458.png	point(-2 -9)	459.png	FALSE	16	FALSE
+ceacheergirl	Native American Example 8	459.png	point(2 -9)	460.png	FALSE	17	FALSE
+ceacheergirl	Native American Example 8	460.png	line(0 -6 0 -8)	461.png	FALSE	18	FALSE
+ceacheergirl	Native American Example 8	461.png	line(0 -6 0 -8)	462.png	FALSE	19	FALSE
+ceacheergirl	Native American Example 8	462.png	point(-1 -9)	463.png	FALSE	20	FALSE
+ceacheergirl	Native American Example 8	463.png	point(1 -9)	464.png	FALSE	21	FALSE
+ceacheergirl	Native American Example 8	464.png	point(0 -9)	465.png	FALSE	22	FALSE
+EmilyFomin	Native American Example 8	0.png	rectangle(-4 -9 4 3)	571.png	FALSE	0	FALSE
+EmilyFomin	Native American Example 8	571.png	rectangle(-4 -9 4 3)	443.png	FALSE	1	FALSE
+EmilyFomin	Native American Example 8	443.png	point(2 -9)	572.png	FALSE	2	FALSE
+EmilyFomin	Native American Example 8	572.png	point(-2 -9)	573.png	FALSE	3	FALSE
+EmilyFomin	Native American Example 8	573.png	point(-1 -8)	574.png	FALSE	4	FALSE
+EmilyFomin	Native American Example 8	574.png	point(1 -8)	575.png	FALSE	5	FALSE
+EmilyFomin	Native American Example 8	575.png	point(1 -7)	576.png	FALSE	6	FALSE
+EmilyFomin	Native American Example 8	576.png	point(1 -6)	577.png	FALSE	7	FALSE
+EmilyFomin	Native American Example 8	577.png	point(-1 -6)	578.png	FALSE	8	FALSE
+EmilyFomin	Native American Example 8	578.png	point(-1 -7)	579.png	FALSE	9	FALSE
+EmilyFomin	Native American Example 8	579.png	point(0 -5)	580.png	FALSE	10	FALSE
+EmilyFomin	Native American Example 8	580.png	point(0 -4)	581.png	FALSE	11	FALSE
+EmilyFomin	Native American Example 8	581.png	point(0 -3)	582.png	FALSE	12	FALSE
+EmilyFomin	Native American Example 8	582.png	point(-1 -9)	583.png	FALSE	13	FALSE
+EmilyFomin	Native American Example 8	583.png	point(1 -9)	584.png	FALSE	14	FALSE
+EmilyFomin	Native American Example 8	584.png	point(0 -8)	585.png	FALSE	15	FALSE
+EmilyFomin	Native American Example 8	585.png	point(0 -7)	586.png	FALSE	16	FALSE
+EmilyFomin	Native American Example 8	586.png	point(0 -6)	587.png	FALSE	17	FALSE
+EmilyFomin	Native American Example 8	587.png	point(3 -9)	588.png	FALSE	18	FALSE
+EmilyFomin	Native American Example 8	588.png	point(-3 -9)	589.png	FALSE	19	FALSE
+EmilyFomin	Native American Example 8	589.png	point(-2 -7)	590.png	FALSE	20	FALSE
+EmilyFomin	Native American Example 8	590.png	point(-2 -8)	591.png	FALSE	21	FALSE
+EmilyFomin	Native American Example 8	591.png	point(-2 -6)	592.png	FALSE	22	FALSE
+EmilyFomin	Native American Example 8	592.png	point(2 -6)	593.png	FALSE	23	FALSE
+EmilyFomin	Native American Example 8	593.png	point(2 -7)	594.png	FALSE	24	FALSE
+EmilyFomin	Native American Example 8	594.png	point(2 -8)	595.png	FALSE	25	FALSE
+EmilyFomin	Native American Example 8	595.png	point(-1 -5)	596.png	FALSE	26	FALSE
+EmilyFomin	Native American Example 8	596.png	point(-1 -4)	597.png	FALSE	27	FALSE
+EmilyFomin	Native American Example 8	597.png	point(-1 -3)	598.png	FALSE	28	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	29	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	30	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	31	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	32	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	33	FALSE
+EmilyFomin	Native American Example 8	598.png	point(-1 -5)	598.png	FALSE	34	FALSE
+EmilyFomin	Native American Example 8	598.png	point(1 -5)	599.png	FALSE	35	FALSE
+EmilyFomin	Native American Example 8	599.png	point(1 -4)	600.png	FALSE	36	FALSE
+EmilyFomin	Native American Example 8	600.png	point(1 -3)	601.png	FALSE	37	FALSE
+EmilyFomin	Native American Example 8	601.png	point(0 -2)	602.png	FALSE	38	FALSE
+EmilyFomin	Native American Example 8	602.png	point(0 -1)	603.png	FALSE	39	FALSE
+EmilyFomin	Native American Example 8	603.png	point(0 0)	604.png	FALSE	40	FALSE
+EmilyFomin	Native American Example 8	604.png	point(0 1)	605.png	FALSE	41	FALSE
+EmilyFomin	Native American Example 8	605.png	point(0 2)	606.png	FALSE	42	FALSE
+EmilyFomin	Native American Example 8	606.png	point(0 3)	607.png	FALSE	43	FALSE
+EmilyFomin	Native American Example 8	607.png	point(-1 -2)	608.png	FALSE	44	FALSE
+EmilyFomin	Native American Example 8	608.png	point(-1 -1)	609.png	FALSE	45	FALSE
+EmilyFomin	Native American Example 8	609.png	point(-1 0)	610.png	FALSE	46	FALSE
+EmilyFomin	Native American Example 8	610.png	point(1 2)	611.png	FALSE	47	FALSE
+EmilyFomin	Native American Example 8	611.png	undo	610.png	FALSE	49	FALSE
+EmilyFomin	Native American Example 8	610.png	point(1 -2)	612.png	FALSE	49	FALSE
+EmilyFomin	Native American Example 8	612.png	point(1 -1)	613.png	FALSE	50	FALSE
+EmilyFomin	Native American Example 8	613.png	point(1 0)	614.png	FALSE	51	FALSE
+EmilyFomin	Native American Example 8	614.png	point(2 -4)	615.png	FALSE	52	FALSE
+EmilyFomin	Native American Example 8	615.png	point(2 -5)	616.png	FALSE	53	FALSE
+EmilyFomin	Native American Example 8	616.png	point(2 -3)	617.png	FALSE	54	FALSE
+EmilyFomin	Native American Example 8	617.png	point(-2 -3)	618.png	FALSE	55	FALSE
+EmilyFomin	Native American Example 8	618.png	point(-2 -2)	619.png	FALSE	56	FALSE
+EmilyFomin	Native American Example 8	619.png	point(-2 -1)	620.png	FALSE	57	FALSE
+EmilyFomin	Native American Example 8	620.png	undo	619.png	FALSE	59	FALSE
+EmilyFomin	Native American Example 8	618.png	undo	617.png	FALSE	60	FALSE
+EmilyFomin	Native American Example 8	617.png	point(-2 -4)	621.png	FALSE	60	FALSE
+EmilyFomin	Native American Example 8	621.png	point(-2 -5)	622.png	FALSE	61	FALSE
+EmilyFomin	Native American Example 8	622.png	point(-3 -6)	623.png	FALSE	62	FALSE
+EmilyFomin	Native American Example 8	623.png	point(-3 -7)	624.png	FALSE	63	FALSE
+EmilyFomin	Native American Example 8	624.png	point(-3 -8)	625.png	FALSE	64	FALSE
+EmilyFomin	Native American Example 8	625.png	point(3 -8)	626.png	FALSE	65	FALSE
+EmilyFomin	Native American Example 8	626.png	point(3 -7)	627.png	FALSE	66	FALSE
+EmilyFomin	Native American Example 8	627.png	point(3 -6)	628.png	FALSE	67	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	571.png	FALSE	0	FALSE
+keetarp	Native American Example 8	571.png	rectangle(-4 -9 4 3)	443.png	FALSE	1	FALSE
+keetarp	Native American Example 8	443.png	line(0 3 0 1)	444.png	FALSE	2	FALSE
+keetarp	Native American Example 8	444.png	line(-1 0 -1 -2)	1052.png	FALSE	3	FALSE
+keetarp	Native American Example 8	1052.png	line(1 0 1 -2)	1053.png	FALSE	4	FALSE
+keetarp	Native American Example 8	1053.png	line(0 0 0 -2)	1054.png	FALSE	5	FALSE
+keetarp	Native American Example 8	1054.png	line(0 -3 0 -5)	1055.png	FALSE	6	FALSE
+keetarp	Native American Example 8	1055.png	line(0 -3 0 -5)	1056.png	FALSE	7	FALSE
+keetarp	Native American Example 8	1056.png	line(0 -6 0 -8)	1057.png	FALSE	8	FALSE
+keetarp	Native American Example 8	1057.png	point(1 -9)	1058.png	FALSE	9	FALSE
+keetarp	Native American Example 8	1058.png	point(-1 -9)	1059.png	FALSE	10	FALSE
+keetarp	Native American Example 8	1059.png	point(2 -9)	1060.png	FALSE	11	FALSE
+keetarp	Native American Example 8	1060.png	point(-2 -9)	1061.png	FALSE	12	FALSE
+keetarp	Native American Example 8	1061.png	point(-3 -9)	1062.png	FALSE	13	FALSE
+keetarp	Native American Example 8	1062.png	point(3 -9)	1063.png	FALSE	14	FALSE
+keetarp	Native American Example 8	1063.png	line(3 -6 3 -8)	1064.png	FALSE	15	FALSE
+keetarp	Native American Example 8	1064.png	line(-3 -6 -3 -8)	1065.png	FALSE	16	FALSE
+keetarp	Native American Example 8	1065.png	line(-2 -6 -2 -8)	1066.png	FALSE	17	FALSE
+keetarp	Native American Example 8	1066.png	line(-2 -6 -2 -8)	1067.png	FALSE	18	FALSE
+keetarp	Native American Example 8	1067.png	line(-1 -6 -1 -8)	1068.png	FALSE	19	FALSE
+keetarp	Native American Example 8	1068.png	line(1 -6 1 -8)	1069.png	FALSE	20	FALSE
+keetarp	Native American Example 8	1069.png	line(2 -6 2 -8)	1070.png	FALSE	21	FALSE
+keetarp	Native American Example 8	1070.png	line(-2 -3 -2 -5)	1071.png	FALSE	22	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+keetarp	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+keetarp	Native American Example 8	443.png	triangle_iteration(0 3 1 3 13 -Y)	1095.png	FALSE	1	FALSE
+keetarp	Native American Example 8	1095.png	point(-4 -9)	1096.png	FALSE	2	FALSE
+keetarp	Native American Example 8	1096.png	point(4 -9)	448.png	FALSE	3	FALSE
+keetarp	Native American Example 8	448.png	point(0 -9)	1097.png	FALSE	4	FALSE
+keetarp	Native American Example 8	1097.png	point(-3 -9)	1098.png	FALSE	5	FALSE
+keetarp	Native American Example 8	1098.png	point(-2 -9)	1099.png	FALSE	6	FALSE
+keetarp	Native American Example 8	1099.png	point(-1 -9)	1100.png	FALSE	7	FALSE
+keetarp	Native American Example 8	1100.png	point(1 -9)	1101.png	FALSE	8	FALSE
+keetarp	Native American Example 8	1101.png	point(2 -9)	1102.png	FALSE	9	FALSE
+keetarp	Native American Example 8	1102.png	point(3 -9)	1103.png	FALSE	10	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+keetarp	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+keetarp	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 9 -Y)	1104.png	FALSE	2	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+keetarp	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+keetarp	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 10 -Y)	1105.png	FALSE	2	FALSE
+keetarp	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1106.png	FALSE	3	FALSE
+keetarp	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1107.png	FALSE	4	FALSE
+keetarp	Native American Example 8	1107.png	point(0 -9)	465.png	FALSE	5	FALSE
+keetarp	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+keetarp	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+keetarp	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 10 -Y)	1105.png	FALSE	2	FALSE
+keetarp	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1106.png	FALSE	3	FALSE
+keetarp	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1107.png	FALSE	4	FALSE
+keetarp	Native American Example 8	1107.png	point(0 -9)	465.png	FALSE	5	FALSE
+Masterchief	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+Masterchief	Native American Example 8	443.png	point(0 3)	443.png	FALSE	1	FALSE
+Masterchief	Native American Example 8	443.png	line(0 0 0 0)	443.png	FALSE	2	FALSE
+Masterchief	Native American Example 8	443.png	line(0 3 0 0)	1570.png	FALSE	3	FALSE
+Masterchief	Native American Example 8	1570.png	line(1 0 0 0)	1571.png	FALSE	4	FALSE
+Masterchief	Native American Example 8	0.png	rectangle(-4 -9 4 3)	571.png	FALSE	0	FALSE
+Masterchief	Native American Example 8	571.png	rectangle(-4 -9 4 3)	443.png	FALSE	1	FALSE
+Masterchief	Native American Example 8	443.png	line(0 3 0 0)	1570.png	FALSE	2	FALSE
+Masterchief	Native American Example 8	1570.png	line(1 0 1 -2)	1572.png	FALSE	3	FALSE
+Masterchief	Native American Example 8	1572.png	line(-1 0 -1 -2)	1573.png	FALSE	4	FALSE
+Masterchief	Native American Example 8	1573.png	line(2 -3 2 -5)	1574.png	FALSE	5	FALSE
+Masterchief	Native American Example 8	1574.png	line(-2 -3 -2 -5)	1575.png	FALSE	6	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	571.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	571.png	undo	0.png	FALSE	2	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	2	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 10 -Y)	443.png	FALSE	3	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 8 -Y)	1579.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	1579.png	undo	443.png	FALSE	3	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	3	FALSE
+nicknick321	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 10 -Y)	1105.png	FALSE	4	FALSE
+nicknick321	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1105.png	FALSE	5	FALSE
+nicknick321	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1106.png	FALSE	6	FALSE
+nicknick321	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1106.png	FALSE	7	FALSE
+nicknick321	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1107.png	FALSE	8	FALSE
+nicknick321	Native American Example 8	1107.png	point(0 -9)	1107.png	FALSE	9	FALSE
+nicknick321	Native American Example 8	1107.png	point(0 -9)	465.png	FALSE	10	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	443.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	443.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 10 -Y)	1105.png	FALSE	2	FALSE
+nicknick321	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1106.png	FALSE	3	FALSE
+nicknick321	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1107.png	FALSE	4	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	443.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+nicknick321	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+nicknick321	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 10 -Y)	1105.png	FALSE	2	FALSE
+nicknick321	Native American Example 8	1105.png	triangle_iteration(0 -3 1 3 7 -Y)	1106.png	FALSE	3	FALSE
+nicknick321	Native American Example 8	1106.png	triangle_iteration(0 -6 1 3 4 -Y)	1107.png	FALSE	4	FALSE
+nicknick321	Native American Example 8	1107.png	triangle(0 -9 0 0 0 0)	1580.png	FALSE	5	FALSE
+nicknick321	Native American Example 8	1580.png	undo	1107.png	FALSE	7	FALSE
+nicknick321	Native American Example 8	1107.png	point(0 -9)	465.png	FALSE	7	FALSE
+speedy4499	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+speedy4499	Native American Example 8	443.png	line(0 3 0 1)	444.png	FALSE	1	FALSE
+speedy4499	Native American Example 8	444.png	line(0 0 0 -2)	1684.png	FALSE	2	FALSE
+speedy4499	Native American Example 8	1684.png	line(-1 0 -1 -2)	1685.png	FALSE	3	FALSE
+speedy4499	Native American Example 8	1685.png	line(1 0 1 -2)	1054.png	FALSE	4	FALSE
+speedy4499	Native American Example 8	1054.png	rectangle(-2 -5 2 -3)	1686.png	FALSE	5	FALSE
+speedy4499	Native American Example 8	1686.png	rectangle(-3 -9 3 -6)	449.png	FALSE	6	FALSE
+speedy4499	Native American Example 8	449.png	rectangle(0 -5 0 -3)	1687.png	FALSE	7	FALSE
+speedy4499	Native American Example 8	1687.png	rectangle(0 -8 0 -6)	1688.png	FALSE	8	FALSE
+speedy4499	Native American Example 8	1688.png	point(0 -9)	1689.png	FALSE	9	FALSE
+speedy4499	Native American Example 8	1689.png	line(-1 -3 -1 -5)	1690.png	FALSE	10	FALSE
+speedy4499	Native American Example 8	1690.png	line(17 -5 17 -5)	1691.png	FALSE	11	FALSE
+speedy4499	Native American Example 8	1691.png	undo	1690.png	FALSE	13	FALSE
+speedy4499	Native American Example 8	1690.png	line(1 -3 1 -5)	1692.png	FALSE	13	FALSE
+speedy4499	Native American Example 8	1692.png	line(-2 -6 -2 -8)	1693.png	FALSE	14	FALSE
+speedy4499	Native American Example 8	1693.png	line(2 -6 2 -8)	1694.png	FALSE	15	FALSE
+speedy4499	Native American Example 8	1694.png	point(3 -9)	1695.png	FALSE	16	FALSE
+speedy4499	Native American Example 8	1695.png	point(-3 -9)	1696.png	FALSE	17	FALSE
+speedy4499	Native American Example 8	1696.png	point(-2 -9)	1697.png	FALSE	18	FALSE
+speedy4499	Native American Example 8	1697.png	point(2 -9)	1698.png	FALSE	19	FALSE
+speedy4499	Native American Example 8	1698.png	point(-1 -9)	1699.png	FALSE	20	FALSE
+speedy4499	Native American Example 8	1699.png	point(-1 -9)	1700.png	FALSE	21	FALSE
+speedy4499	Native American Example 8	1700.png	point(1 -9)	1701.png	FALSE	22	FALSE
+speedy4499	Native American Example 8	0.png	line(-1 -6 -1 -8)	1702.png	FALSE	0	FALSE
+speedy4499	Native American Example 8	1702.png	line(1 -6 1 -8)	1703.png	FALSE	1	FALSE
+username	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+username	Native American Example 8	443.png	triangle(0 3 3 -8 -3 -8)	1770.png	FALSE	1	FALSE
+username	Native American Example 8	1770.png	triangle(0 0 -3 -9 3 -9)	1771.png	FALSE	2	FALSE
+username	Native American Example 8	1771.png	triangle(0 -3 2 -9 -2 -9)	1771.png	FALSE	3	FALSE
+username	Native American Example 8	1771.png	triangle(0 -3 2 -9 -2 -9)	1772.png	FALSE	4	FALSE
+username	Native American Example 8	1772.png	triangle(0 -6 1 -9 -1 -9)	1773.png	FALSE	5	FALSE
+username	Native American Example 8	1773.png	point(0 -9)	1774.png	FALSE	6	FALSE
+Cheese	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+Cheese	Native American Example 8	443.png	triangle_iteration(-3 -8 -1 3 12 Y)	2011.png	FALSE	1	FALSE
+Cheese	Native American Example 8	2011.png	triangle_iteration(-3 -8 -1 3 12 Y)	2011.png	FALSE	2	FALSE
+Cheese	Native American Example 8	2011.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	3	FALSE
+Cheese	Native American Example 8	1094.png	triangle_iteration(0 0 1 3 9 -Y)	1104.png	FALSE	4	FALSE
+Cheese	Native American Example 8	1104.png	triangle_iteration(0 -3 1 3 6 -Y)	1104.png	FALSE	5	FALSE
+Cheese	Native American Example 8	1104.png	triangle_iteration(0 -3 1 3 6 -Y)	2012.png	FALSE	6	FALSE
+dankitlove23	Native American Example 8	0.png	point(0 0)	121.png	FALSE	0	FALSE
+dankitlove23	Native American Example 8	121.png	point(0 -1)	2031.png	FALSE	1	FALSE
+dankitlove23	Native American Example 8	2031.png	point(0 -2)	2032.png	FALSE	2	FALSE
+dankitlove23	Native American Example 8	2032.png	point(0 -3)	2033.png	FALSE	3	FALSE
+dankitlove23	Native American Example 8	2033.png	point(0 -4)	2034.png	FALSE	4	FALSE
+dankitlove23	Native American Example 8	2034.png	point(0 -5)	2035.png	FALSE	5	FALSE
+dankitlove23	Native American Example 8	2035.png	point(0 -6)	2036.png	FALSE	6	FALSE
+dankitlove23	Native American Example 8	2036.png	point(0 -7)	2037.png	FALSE	7	FALSE
+dankitlove23	Native American Example 8	2037.png	point(0 -8)	2038.png	FALSE	8	FALSE
+dankitlove23	Native American Example 8	2038.png	point(0 -9)	2039.png	FALSE	9	FALSE
+dankitlove23	Native American Example 8	2039.png	point(1 -9)	2040.png	FALSE	10	FALSE
+dankitlove23	Native American Example 8	2040.png	point(-1 -9)	2041.png	FALSE	11	FALSE
+dankitlove23	Native American Example 8	2041.png	point(2 -9)	2042.png	FALSE	12	FALSE
+dankitlove23	Native American Example 8	2042.png	point(-2 -9)	2043.png	FALSE	13	FALSE
+dankitlove23	Native American Example 8	2043.png	point(3 -9)	2044.png	FALSE	14	FALSE
+dankitlove23	Native American Example 8	2044.png	point(-3 -9)	2045.png	FALSE	15	FALSE
+dankitlove23	Native American Example 8	2045.png	point(-4 -9)	2046.png	FALSE	16	FALSE
+Maura	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+Maura	Native American Example 8	443.png	triangle_iteration(0 3 1 3 13 -Y)	1095.png	FALSE	1	FALSE
+Maura	Native American Example 8	1095.png	triangle_iteration(0 0 1 3 10 -Y)	2318.png	FALSE	2	FALSE
+Maura	Native American Example 8	2318.png	triangle_iteration(0 -3 1 3 6 -Y)	2319.png	FALSE	3	FALSE
+Maura	Native American Example 8	2319.png	triangle_iteration(0 -6 1 3 4 -Y)	2320.png	FALSE	4	FALSE
+Maura	Native American Example 8	2320.png	point(0 -9)	2321.png	FALSE	5	FALSE
+Maura	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+Maura	Native American Example 8	443.png	triangle_iteration(0 3 1 3 12 -Y)	1094.png	FALSE	1	FALSE
+selin	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+selin	Native American Example 8	443.png	point(0 3)	2391.png	FALSE	1	FALSE
+selin	Native American Example 8	2391.png	point(0 2)	2392.png	FALSE	2	FALSE
+selin	Native American Example 8	2392.png	point(0 1)	444.png	FALSE	3	FALSE
+selin	Native American Example 8	444.png	point(0 0)	2393.png	FALSE	4	FALSE
+selin	Native American Example 8	2393.png	point(-1 -1)	2394.png	FALSE	5	FALSE
+selin	Native American Example 8	2394.png	undo	2393.png	FALSE	7	FALSE
+selin	Native American Example 8	2393.png	point(-1 0)	2395.png	FALSE	7	FALSE
+selin	Native American Example 8	2395.png	undo	2393.png	FALSE	9	FALSE
+selin	Native American Example 8	2393.png	point(0 -1)	2396.png	FALSE	9	FALSE
+selin	Native American Example 8	2396.png	point(0 -2)	1684.png	FALSE	10	FALSE
+selin	Native American Example 8	1684.png	point(0 -3)	2397.png	FALSE	11	FALSE
+selin	Native American Example 8	2397.png	point(0 -4)	2398.png	FALSE	12	FALSE
+selin	Native American Example 8	2398.png	point(0 -5)	2399.png	FALSE	13	FALSE
+selin	Native American Example 8	2399.png	point(0 -6)	2400.png	FALSE	14	FALSE
+selin	Native American Example 8	2400.png	point(0 -7)	2401.png	FALSE	15	FALSE
+selin	Native American Example 8	2401.png	point(0 -8)	2402.png	FALSE	16	FALSE
+selin	Native American Example 8	2402.png	point(0 -9)	2403.png	FALSE	17	FALSE
+selin	Native American Example 8	2403.png	point(0 -10)	2404.png	FALSE	18	FALSE
+selin	Native American Example 8	2404.png	point(-1 0)	2405.png	FALSE	19	FALSE
+selin	Native American Example 8	2405.png	point(-1 1)	2406.png	FALSE	20	FALSE
+selin	Native American Example 8	2406.png	undo	2405.png	FALSE	22	FALSE
+selin	Native American Example 8	2405.png	point(-1 -1)	2407.png	FALSE	22	FALSE
+selin	Native American Example 8	2407.png	point(-1 -2)	2408.png	FALSE	23	FALSE
+selin	Native American Example 8	2408.png	point(-1 -3)	2409.png	FALSE	24	FALSE
+selin	Native American Example 8	2409.png	point(-1 -4)	2410.png	FALSE	25	FALSE
+selin	Native American Example 8	2410.png	point(-1 -5)	2411.png	FALSE	26	FALSE
+selin	Native American Example 8	2411.png	point(-1 -6)	2412.png	FALSE	27	FALSE
+selin	Native American Example 8	2412.png	point(-1 -7)	2413.png	FALSE	28	FALSE
+selin	Native American Example 8	2413.png	point(-1 -8)	2414.png	FALSE	29	FALSE
+selin	Native American Example 8	2414.png	point(-1 -9)	2415.png	FALSE	30	FALSE
+selin	Native American Example 8	0.png	rectangle(-4 -9 4 3)	443.png	FALSE	0	FALSE
+selin	Native American Example 8	443.png	point(0 3)	2391.png	FALSE	1	FALSE
+selin	Native American Example 8	2391.png	point(0 4)	2416.png	FALSE	2	FALSE
+selin	Native American Example 8	2416.png	undo	2391.png	FALSE	4	FALSE
+selin	Native American Example 8	2391.png	point(0 2)	2392.png	FALSE	4	FALSE
+selin	Native American Example 8	2392.png	point(0 1)	444.png	FALSE	5	FALSE
+selin	Native American Example 8	444.png	point(0 0)	2393.png	FALSE	6	FALSE
+selin	Native American Example 8	2393.png	point(0 -1)	2396.png	FALSE	7	FALSE
+selin	Native American Example 8	2396.png	point(0 -2)	1684.png	FALSE	8	FALSE
+selin	Native American Example 8	1684.png	point(0 -3)	2417.png	FALSE	9	FALSE
+selin	Native American Example 8	2417.png	point(0 -4)	2418.png	FALSE	10	FALSE
+selin	Native American Example 8	2418.png	point(0 -5)	2419.png	FALSE	11	FALSE
+selin	Native American Example 8	2419.png	point(0 -6)	2420.png	FALSE	12	FALSE
+selin	Native American Example 8	2420.png	point(0 -7)	2421.png	FALSE	13	FALSE
+selin	Native American Example 8	2421.png	point(0 -8)	2422.png	FALSE	14	FALSE
+selin	Native American Example 8	2422.png	point(-1 0)	2423.png	FALSE	15	FALSE
+selin	Native American Example 8	2423.png	point(-1 -1)	2424.png	FALSE	16	FALSE
+selin	Native American Example 8	2424.png	point(-1 -2)	2425.png	FALSE	17	FALSE
+selin	Native American Example 8	2425.png	point(-1 -3)	2426.png	FALSE	18	FALSE
+selin	Native American Example 8	2426.png	point(-1 -4)	2427.png	FALSE	19	FALSE
+selin	Native American Example 8	2427.png	point(-1 -5)	2428.png	FALSE	20	FALSE
+selin	Native American Example 8	2428.png	point(-1 -6)	2429.png	FALSE	21	FALSE
+selin	Native American Example 8	2429.png	point(-1 -7)	2430.png	FALSE	22	FALSE
+selin	Native American Example 8	2430.png	point(-1 -8)	2431.png	FALSE	23	FALSE
+selin	Native American Example 8	2431.png	point(-1 -9)	2432.png	FALSE	24	FALSE
+selin	Native American Example 8	2432.png	point(-2 -3)	2433.png	FALSE	25	FALSE
+selin	Native American Example 8	2433.png	point(-2 -4)	2434.png	FALSE	26	FALSE
+selin	Native American Example 8	2434.png	point(-2 -5)	2435.png	FALSE	27	FALSE
+selin	Native American Example 8	2435.png	point(-2 -6)	2436.png	FALSE	28	FALSE
+selin	Native American Example 8	2436.png	point(-2 -7)	2437.png	FALSE	29	FALSE
+selin	Native American Example 8	2437.png	point(-2 -8)	2438.png	FALSE	30	FALSE
+selin	Native American Example 8	2438.png	point(-2 -9)	2439.png	FALSE	31	FALSE
+TheCrazySausageBork	Native American Example 8	0.png	point(0 0)	121.png	FALSE	0	FALSE
+TheCrazySausageBork	Native American Example 8	121.png	point(0 0)	1785.png	FALSE	1	FALSE
+TheCrazySausageBork	Native American Example 8	1785.png	point(0 -1)	2469.png	FALSE	2	FALSE
+TheCrazySausageBork	Native American Example 8	2469.png	undo	1785.png	FALSE	4	FALSE
+TheCrazySausageBork	Native American Example 8	121.png	undo	0.png	FALSE	5	FALSE
+TheCrazySausageBork	Native American Example 8	0.png	point(0 0)	1785.png	FALSE	5	FALSE
+TheCrazySausageBork	Native American Example 8	1785.png	point(0 0)	121.png	FALSE	6	FALSE
+TheCrazySausageBork	Native American Example 8	121.png	point(0 1)	2470.png	FALSE	7	FALSE
+TheCrazySausageBork	Native American Example 8	2470.png	point(0 2)	2471.png	FALSE	8	FALSE
+TheCrazySausageBork	Native American Example 8	2471.png	point(0 3)	2472.png	FALSE	9	FALSE
+TheCrazySausageBork	Native American Example 8	2472.png	point(0 -1)	2473.png	FALSE	10	FALSE
+TheCrazySausageBork	Native American Example 8	2473.png	point(0 -1)	2474.png	FALSE	11	FALSE
+TheCrazySausageBork	Native American Example 8	2474.png	point(0 -2)	2475.png	FALSE	12	FALSE
+TheCrazySausageBork	Native American Example 8	2475.png	point(0 -3)	2476.png	FALSE	13	FALSE
+TheCrazySausageBork	Native American Example 8	2476.png	line(0 0 0 0)	2476.png	FALSE	14	FALSE
+TheCrazySausageBork	Native American Example 8	2476.png	undo	2476.png	FALSE	16	FALSE
+TheCrazySausageBork	Native American Example 8	2475.png	undo	2474.png	FALSE	17	FALSE
+TheCrazySausageBork	Native American Example 8	2474.png	undo	2473.png	FALSE	18	FALSE
+TheCrazySausageBork	Native American Example 8	2473.png	point(0 -2)	2477.png	FALSE	18	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	19	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	20	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	21	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	22	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	23	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	24	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	25	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	26	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	27	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	28	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	29	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	30	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	31	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	32	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	line(0 0 0 0)	2477.png	FALSE	33	FALSE
+TheCrazySausageBork	Native American Example 8	2477.png	point(0 -5)	2478.png	FALSE	34	FALSE
+TheCrazySausageBork	Native American Example 8	2478.png	point(0 -5)	2479.png	FALSE	35	FALSE
+TheCrazySausageBork	Native American Example 8	2479.png	point(0 -4)	2480.png	FALSE	36	FALSE
+TheCrazySausageBork	Native American Example 8	2480.png	point(0 -3)	2481.png	FALSE	37	FALSE
+TheCrazySausageBork	Native American Example 8	2481.png	point(0 -6)	2482.png	FALSE	38	FALSE
+TheCrazySausageBork	Native American Example 8	2482.png	point(0 -7)	2483.png	FALSE	39	FALSE
+TheCrazySausageBork	Native American Example 8	2483.png	point(0 -8)	2484.png	FALSE	40	FALSE
+TheCrazySausageBork	Native American Example 8	2484.png	point(0 -9)	2485.png	FALSE	41	FALSE
